@@ -1,0 +1,114 @@
+[
+    {
+        "airport": "AIRDRIE",
+        "code": "CEF4",
+        "description": "ATF UNICOM",
+        "frequency": 122.9,
+        "province": "AB"
+    },
+    {
+        "airport": "ALLISTON",
+        "code": "CNY4",
+        "description": "ATF tfc",
+        "frequency": 123.2,
+        "province": "ON"
+    },
+    {
+        "airport": "ARMSTRONG",
+        "code": "CYYW",
+        "description": "ATF tfc",
+        "frequency": 122.8,
+        "province": "ON"
+    },
+    {
+        "airport": "ARMSTRONG",
+        "code": "CYYW",
+        "description": "AWOS",
+        "frequency": 128.65,
+        "province": "ON"
+    },
+    {
+        "airport": "BADDECK",
+        "code": "CDW2",
+        "description": "ATF UNICOM ltd hrs O/T tfc",
+        "frequency": 122.8,
+        "province": "NS"
+    },
+    {
+        "airport": "BRAMPTON-CALEDON",
+        "code": "CNC3",
+        "description": "ATF UNICOM ltd hrs O/T tfc",
+        "frequency": 123.300,
+        "province": "ON"
+    },
+    {
+        "airport": "CHARLOTTETOWN",
+        "code": "CYYG",
+        "description": "RADIO",
+        "frequency": 118,
+        "province": "PE"
+    },
+    {
+        "airport": "CHARLOTTETOWN",
+        "code": "CYYG",
+        "description": "RCO FISE",
+        "frequency": 123.55,
+        "province": "PE"
+    },
+    {
+        "airport": "CHARLOTTETOWN",
+        "code": "CYYG",
+        "description": "RCO bcst",
+        "frequency": 126.7,
+        "province": "PE"
+    },
+    {
+        "airport": "CHARLOTTETOWN",
+        "code": "CYYG",
+        "description": "MF",
+        "frequency": 118,
+        "province": "PE"
+    },
+    {
+        "airport": "CHARLOTTETOWN",
+        "code": "CYYG",
+        "description": "PAL Moncton Ctr",
+        "frequency": 135.65,
+        "province": "PE"
+    },
+    {
+        "airport": "TORONTO / LESTER B. PEARSON INTL",
+        "code": "CYYZ",
+        "description": "GND",
+        "frequency": "119.100, 121.650, 121.900",
+        "province": "ON"
+    },
+    {
+        "airport": "TORONTO / LESTER B. PEARSON INTL",
+        "code": "CYYZ",
+        "description": "TWR",
+        "frequency": "118.350 118.700",
+        "province": "ON"
+    },
+    {
+        "airport": "TORONTO / LESTER B. PEARSON INTL",
+        "code": "CYYZ",
+        "description": "ARR",
+        "frequency": "124.475 125.400 132.800 134.175",
+        "province": "ON"
+    },
+    {
+        "airport": "TORONTO / LESTER B. PEARSON INTL",
+        "code": "CYYZ",
+        "description": "DEP",
+        "frequency": "127.575 128.000",
+        "province": "ON"
+    },
+    {
+        "airport": "TORONTO / LESTER B. PEARSON INTL",
+        "code": "CYYZ",
+        "description": "VFR ADV",
+        "frequency": "119.300 133.400",
+        "province": "ON"
+    }
+]

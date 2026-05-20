@@ -1,0 +1,494 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    color: black;
+    line-height: 1.6;
+}
+
+header {
+    background: black;
+    color: #D4AF37;
+    /*#C4B454*/
+    padding: 15px 30px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo-container img {
+    width: 70px;
+}
+
+.logo-container h1 {
+    font-size: 28px;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #D4AF37;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: silver;
+}
+
+.container {
+    width: 95%;
+    max-width: 1400px;
+    margin: 40px auto;
+}
+
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h2 {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #444;
+}
+
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 25px;
+    margin-top: 40px;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 25px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    margin-bottom: 15px;
+}
+
+footer {
+    background: black;
+    color: #D4AF37;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+table.dataTable thead {
+    background: black;
+    color: #D4AF37;
+}
+
+.dataTables_wrapper {
+    margin-top: 20px;
+}
+
+form {
+    max-width: 700px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+form button {
+    background: black;
+    color: #D4AF37;
+    border: none;
+    padding: 12px 25px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: #333;
+}
+
+.page-title {
+    margin-bottom: 25px;
+}
+
+.disclaimer-box {
+    background: #f5f5f5;
+    border-left: 6px solid #D4AF37;
+    padding: 25px;
+    margin-top: 100px;
+    border-radius: 8px;
+}
+
+.disclaimer-box h3 {
+    margin-bottom: 18px;
+    font-size: 24px;
+}
+
+.disclaimer-box ul {
+    padding-left: 20px;
+}
+
+.disclaimer-box li {
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.database-notice {
+    background: #f8f8f8;
+    border-left: 6px solid #D4AF37;
+    padding: 25px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+
+.database-notice h3 {
+    margin-bottom: 18px;
+    font-size: 24px;
+    color: black;
+}
+
+.database-notice ul {
+    padding-left: 20px;
+}
+
+.database-notice li {
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.effective-date {
+    background: #f5f5f5;
+    border-left: 5px solid #D4AF37;
+    padding: 12px 18px;
+    margin-bottom: 25px;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    color: #222;
+    border-radius: 6px;
+}
+
+.effective-date strong {
+    font-weight: 700;
+    color: black;
+}
+
+.airport-group-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.airport-group-table td,
+.airport-group-table th {
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.airport-title-row td {
+    background: black !important;
+    color: #D4AF37 !important;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 14px !important;
+}
+
+.airport-title {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.airport-name {
+    font-size: 18px;
+}
+
+.airport-code {
+    color: white;
+}
+
+.airport-province {
+    color: #ccc;
+}
+
+.airport-data-row td {
+    background: white;
+}
+
+.airport-data-row:hover td {
+    background: #f8f8f8;
+}
+
+.airport-group-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.airport-group-table td,
+.airport-group-table th {
+    padding: 0;
+    border: none;
+}
+
+.airport-display {
+    padding: 0 !important;
+}
+
+.airport-title {
+    background: black;
+    color: #D4AF37;
+    line-height: 1.1;
+    padding: 6px 10px;
+    font-weight: bold;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.airport-name {
+    font-size: 18px;
+}
+
+.airport-code {
+    color: white;
+}
+
+.airport-province {
+    color: #ccc;
+}
+
+.airport-row-data {
+    display: flex;
+    justify-content: space-between;
+    padding: 14px 18px;
+    border-bottom: 1px solid #ddd;
+    background: white;
+}
+
+.airport-row-data:hover {
+    background: #f7f7f7;
+}
+
+.airport-description {
+    font-weight: 500;
+    padding-left: 18px;
+}
+
+.airport-frequency {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.hidden-column {
+    display: none;
+}
+
+/* DATATABLE STYLING */
+
+.dataTables_wrapper {
+    margin-top: 25px;
+}
+
+.dataTables_length,
+.dataTables_filter {
+    margin-bottom: 20px;
+}
+
+.dataTables_filter input {
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+}
+
+.dataTables_length select {
+    padding: 5px;
+}
+
+#airportTable thead th:nth-child(1),
+#airportTable thead th:nth-child(2),
+#airportTable thead th:nth-child(3) {
+    display: none;
+}
+
+#airportTable thead th {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: black;
+    color: #D4AF37;
+}
+
+table.dataTable thead th {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: white !important;
+    color: #D4AF37 !important;
+    padding: 10px 15px !important;
+    font-size: 14px;
+}
+
+.dataTables_scrollBody {
+    max-height: 700px;
+    overflow-y: auto !important;
+}
+
+/* HEADER LAYOUT */
+
+.airport-header-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.airport-header-description {
+    font-weight: bold;
+}
+
+.airport-header-frequency {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+/* HEADER + DATA GRID */
+
+.airport-header-row,
+.airport-row-data {
+    display: grid;
+
+    grid-template-columns:
+        1.2fr 1.6fr 0.9fr 1.4fr;
+
+    column-gap: 20px;
+
+    align-items: center;
+
+    width: 100%;
+}
+
+/* ALL TEXT LEFT */
+
+.col-comm,
+.col-transmitter,
+.col-timings {
+    text-align: left;
+}
+
+/* DESCRIPTION INDENT */
+
+.col-comm {
+    padding-left: 18px;
+}
+
+/* FREQUENCY COLUMN */
+
+.col-frequency {
+    text-align: left;
+    font-family: monospace;
+    padding-right: 10px;
+}
+
+/* MOBILE MENU BUTTON */
+
+.menu-toggle {
+    display: none;
+
+    background: black;
+    color: #D4AF37;
+
+    border: 1px solid #D4AF37;
+
+    padding: 10px 15px;
+
+    margin-top: 15px;
+
+    cursor: pointer;
+
+    font-weight: bold;
+}
+
+/* MOBILE STYLES */
+
+@media (max-width: 768px) {
+
+    /* SHOW MENU BUTTON */
+
+    .menu-toggle {
+        display: block;
+    }
+
+    /* HIDE NAVIGATION INITIALLY */
+
+    nav {
+        display: none;
+
+    }
+
+    /* SHOW WHEN ACTIVE */
+
+    nav.active {
+        display: block;
+    }
+
+    /* STACK MENU ITEMS */
+
+    nav ul {
+        flex-direction: column;
+        gap: 20px;
+
+        margin-top: 20px;
+
+        align-items: flex-start;
+    }
+
+    /* SMALLER LOGO SECTION */
+
+    .logo-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .logo-container img {
+        width: 55px;
+    }
+
+    .logo-container h1 {
+        font-size: 24px;
+    }
+
+}

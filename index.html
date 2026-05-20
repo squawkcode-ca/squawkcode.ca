@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SquawkCode</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const menuToggle =
+            document.getElementById('menuToggle');
+
+        const mainNav =
+            document.getElementById('mainNav');
+
+        menuToggle.addEventListener('click', function () {
+
+            mainNav.classList.toggle('active');
+
+        });
+
+    });
+
+</script>
+
+<body>
+
+    <header>
+
+        <div class="logo-container">
+            <img src="images/wings-logo.png" alt="Logo">
+            <h1>SquawkCode</h1>
+        </div>
+
+        <button class="menu-toggle" id="menuToggle">
+            ☰ MENU
+        </button>
+
+        <nav id="mainNav">
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="airports.html">Airports</a></li>
+                <li><a href="frequencies.html">Frequencies</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <div class="container">
+
+        <section class="hero">
+            <h2>Canadian Aviation Resources</h2>
+            <p>Airport frequencies, aviation tools, and pilot resources.</p>
+        </section>
+
+        <div class="card-grid">
+
+            <div class="card">
+                <h3>Airport Frequencies</h3>
+                <p>Browse Canadian airport frequencies and aerodrome information.</p>
+            </div>
+
+            <div class="card">
+                <h3>Radio Communications</h3>
+                <p>Quick access to aviation communication references.</p>
+            </div>
+
+            <div class="card">
+                <h3>Flight Resources</h3>
+                <p>Useful pilot and aviation planning resources.</p>
+            </div>
+
+        </div>
+
+        <div class="database-notice">
+
+            <h3>Database Notice</h3>
+
+            <ul>
+                <!--
+                <li>We strive to keep all airport and aerodrome information as accurate and up to date as possible.</li>
+
+                <li>The database is continuously reviewed and updated as new information becomes available.</li>
+
+                <li>Additional airports, aerodromes, and related aviation data will be added over time to expand
+                    coverage across Canada.</li>
+
+                <li>Users should verify critical operational information through official aviation sources before use.</li>
+                -->
+
+                <li><b>OUR GOAL IS TO MAINTAIN AN ACCURATE AND UP-TO-DATE AVIATION DATABASE. NEW AIRPORTS, AERODROMES,
+                        AND
+                        AVIATION INFORMATION WILL CONTINUE TO BE ADDED AND UPDATED REGULARLY AS THE WEBSITE GROWS.</b>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+    <footer>
+        <p>© 2026 SquawkCode.ca</p>
+    </footer>
+
+</body>
+
+</html>

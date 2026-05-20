@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequencies</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const menuToggle =
+            document.getElementById('menuToggle');
+
+        const mainNav =
+            document.getElementById('mainNav');
+
+        menuToggle.addEventListener('click', function () {
+
+            mainNav.classList.toggle('active');
+
+        });
+
+    });
+
+</script>
+
+<body>
+
+    <header>
+
+        <div class="logo-container">
+            <img src="images/wings-logo.png" alt="Logo">
+            <h1>SquawkCode</h1>
+        </div>
+
+        <button class="menu-toggle" id="menuToggle">
+            ☰ MENU
+        </button>
+
+        <nav id="mainNav">
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="airports.html">Airports</a></li>
+                <li><a href="frequencies.html">Frequencies</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <div class="container">
+
+        <h2 class="page-title">Common Aviation Frequencies</h2>
+
+        <ul>
+            <li>121.500 — Emergency</li>
+            <li>126.700 — Enroute (VFR or IFR in uncontrolled airspace)</li>
+            <li>123.200 — Uncontrolled aerodromes without published MF/ATF</li>
+            <li>122.800 — ATF</li>
+            <li>123.450 — Inter-pilot air-to-air</li>
+        </ul>
+
+        <section class="disclaimer-box">
+
+            <h3>Disclaimer & Notice</h3>
+
+            <ul>
+
+                <li>
+                    Users are responsible for exercising due diligence to verify the accuracy and
+                    completeness of all reproduced materials and information.
+                </li>
+
+                <li>
+                    Information displayed on this website is sourced from NAV CANADA, which is acknowledged as the
+                    original provider of the materials.
+                </li>
+
+                <li>
+                    This website and its reproduced materials are not an official NAV CANADA publication and are not
+                    affiliated with, endorsed by, or approved by NAV CANADA.
+                </li>
+
+                <li>
+                    The content provided on this website is intended for informational and reference purposes only.
+                </li>
+
+                <li>
+                    While efforts are made to maintain current and accurate information, users should always consult
+                    official NAV CANADA publications and resources for operational and regulatory use.
+                </li>
+
+            </ul>
+
+        </section>
+
+    </div>
+
+    <footer>
+        <p>© 2026 SquawkCode.ca</p>
+    </footer>
+
+</body>
+
+</html>

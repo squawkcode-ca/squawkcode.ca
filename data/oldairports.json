@@ -1,0 +1,37 @@
+[
+    {
+        "airport": "Toronto Pearson",
+        "code": "CYYZ",
+        "description": "Tower",
+        "frequency": "118.700",
+        "province": "ON"
+    },
+    {
+        "airport": "Toronto Pearson",
+        "code": "CYYZ",
+        "description": "Ground",
+        "frequency": "121.900",
+        "province": "ON"
+    },
+    {
+        "airport": "Toronto Pearson",
+        "code": "CYYZ",
+        "description": "ATIS",
+        "frequency": "128.800",
+        "province": "ON"
+    },
+    {
+        "airport": "Vancouver International",
+        "code": "CYVR",
+        "description": "Tower",
+        "frequency": "118.750",
+        "province": "BC"
+    },
+    {
+        "airport": "Brampton",
+        "code": "CNC3",
+        "description": "UNICOM",
+        "frequency": "123.300",
+        "province": "ON"
+    }
+]

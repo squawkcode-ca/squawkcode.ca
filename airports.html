@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Airport Frequencies</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+
+</head>
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const menuToggle =
+            document.getElementById('menuToggle');
+
+        const mainNav =
+            document.getElementById('mainNav');
+
+        menuToggle.addEventListener('click', function () {
+
+            mainNav.classList.toggle('active');
+
+        });
+
+    });
+
+</script>
+
+<body>
+
+    <header>
+
+        <div class="logo-container">
+            <img src="images/wings-logo.png" alt="Logo">
+            <h1>SquawkCode</h1>
+        </div>
+
+        <button class="menu-toggle" id="menuToggle">
+            ☰ MENU
+        </button>
+
+        <nav id="mainNav">
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="airports.html">Airports</a></li>
+                <li><a href="frequencies.html">Frequencies</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <div class="container">
+
+        <h2 class="page-title">Airport Frequencies</h2>
+
+        <div class="effective-date">
+            EFFECTIVE: 0901Z <strong>14 MAY 2026</strong> TO 9 JULY 2026
+        </div>
+
+        <table id="airportTable" class="display airport-group-table">
+
+            <thead>
+                <tr>
+
+                    <!-- Hidden columns -->
+                    <th>Airport</th>
+                    <th>Code</th>
+                    <th>Province</th>
+
+                    <!-- Visible column -->
+                    <th>
+
+                        <div class="airport-header-row">
+
+                            <div class="col-comm">
+                                COMM
+                            </div>
+
+                            <div class="col-transmitter">
+                                Transmitter
+                            </div>
+
+                            <div class="col-timings">
+                                Timings
+                            </div>
+
+                            <div class="col-frequency">
+                                Frequency
+                            </div>
+
+                        </div>
+
+                    </th>
+
+                </tr>
+            </thead>
+
+            <tbody></tbody>
+
+        </table>
+
+        <section class="disclaimer-box">
+
+            <h3>Disclaimer & Notice</h3>
+
+            <ul>
+
+                <li>
+                    Users are responsible for exercising due diligence to verify the
+                    accuracy and completeness of all reproduced materials.
+                </li>
+
+                <li>
+                    Information displayed on this website is sourced from NAV CANADA.
+                </li>
+
+                <li>
+                    This website is not an official NAV CANADA publication.
+                </li>
+
+                <li>
+                    Content is provided for informational purposes only.
+                </li>
+
+                <li>
+                    Always consult official aviation publications.
+                </li>
+
+            </ul>
+
+        </section>
+
+    </div>
+
+    <footer>
+        <p>© 2026 SquawkCode.ca</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+
+    <script src="js/airports.js"></script>
+
+</body>
+
+</html>

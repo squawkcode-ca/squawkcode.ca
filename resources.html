@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const menuToggle =
+            document.getElementById('menuToggle');
+
+        const mainNav =
+            document.getElementById('mainNav');
+
+        menuToggle.addEventListener('click', function () {
+
+            mainNav.classList.toggle('active');
+
+        });
+
+    });
+
+</script>
+
+<body>
+
+    <header>
+
+        <div class="logo-container">
+            <img src="images/wings-logo.png" alt="Logo">
+            <h1>SquawkCode</h1>
+        </div>
+
+        <button class="menu-toggle" id="menuToggle">
+            ☰ MENU
+        </button>
+
+        <nav id="mainNav">
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="airports.html">Airports</a></li>
+                <li><a href="frequencies.html">Frequencies</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <div class="container">
+
+        <h2 class="page-title">Pilot Resources</h2>
+
+        <ul>
+            <li><a href="https://www.navcanada.ca" target="_blank" rel="noopener noreferrer">NAV CANADA</a></li>
+            <li><a href="https://tc.canada.ca" target="_blank" rel="noopener noreferrer">Transport Canada</a></li>
+            <li><a href="https://metar-taf.com" target="_blank" rel="noopener noreferrer">METAR & TAF</a></li>
+        </ul>
+
+    </div>
+
+    <footer>
+        <p>© 2026 SquawkCode.ca</p>
+    </footer>
+
+</body>
+
+</html>

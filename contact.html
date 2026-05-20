@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+
+        const menuToggle =
+            document.getElementById('menuToggle');
+
+        const mainNav =
+            document.getElementById('mainNav');
+
+        menuToggle.addEventListener('click', function () {
+
+            mainNav.classList.toggle('active');
+
+        });
+
+    });
+
+</script>
+
+<body>
+
+    <header>
+
+        <div class="logo-container">
+            <img src="images/wings-logo.png" alt="Logo">
+            <h1>SquawkCode</h1>
+        </div>
+
+        <button class="menu-toggle" id="menuToggle">
+            ☰ MENU
+        </button>
+
+        <nav id="mainNav">
+
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="airports.html">Airports</a></li>
+                <li><a href="frequencies.html">Frequencies</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <div class="container">
+
+        <h2 class="page-title">Contact Us</h2>
+
+        <form action="https://formsubmit.co/your@email.com" method="POST">
+
+            <input type="text" name="name" placeholder="Your Name" required>
+
+            <input type="email" name="email" placeholder="Your Email" required>
+
+            <textarea name="message" rows="8" placeholder="Your Message" required></textarea>
+
+            <button type="submit">Send Email</button>
+
+        </form>
+
+    </div>
+
+    <footer>
+        <p>© 2026 SquawkCode.ca</p>
+    </footer>
+
+</body>
+
+</html>
