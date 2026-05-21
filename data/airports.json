@@ -67,7 +67,7 @@
         "code": "CYYG",
         "province": "PE",
         "comm": "RCO",
-        "transmitter": "FISE",
+        "transmitter": "FISE London rdo",
         "timings": "",
         "frequency": 123.55
     },
@@ -229,8 +229,8 @@
         "code": "CYZR",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.475
     },
     {
@@ -571,8 +571,8 @@
         "code": "CYVV",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.375
     },
     {
@@ -607,8 +607,8 @@
         "code": "CYQG",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.375
     },
     {
@@ -670,8 +670,8 @@
         "code": "CYQG",
         "province": "ON",
         "comm": "VRF",
-        "transmitter": "Adv",
-        "timings": "Windsor Area-Detroit Apch Ctl",
+        "transmitter": "Adv Windsor Area-Detroit Apch Ctl",
+        "timings": "",
         "frequency": 134.3
     },
     {
@@ -697,8 +697,8 @@
         "code": "CYXU",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.55
     },
     {
@@ -769,8 +769,8 @@
         "code": "CYSN",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.475
     },
     {
@@ -967,8 +967,8 @@
         "code": "CYQK",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.375
     },
     {
@@ -1039,8 +1039,8 @@
         "code": "CYQA",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.475
     },
     {
@@ -1111,8 +1111,8 @@
         "code": "CYAM",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.475
     },
     {
@@ -1237,8 +1237,8 @@
         "code": "CYOW",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "Quebec rdo",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
         "frequency": 123.15
     },
     {
@@ -1381,8 +1381,8 @@
         "code": "CYTS",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.55
     },
     {
@@ -1543,8 +1543,8 @@
         "code": "CYQT",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 122.375
     },
     {
@@ -1651,8 +1651,8 @@
         "code": "CYXL",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 126
     },
     {
@@ -1732,8 +1732,8 @@
         "code": "CPJ5",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo (Campbellford)",
+        "transmitter": "FISE London rdo (Campbellford)",
+        "timings": "",
         "frequency": 123.375
     },
     {
@@ -1804,8 +1804,8 @@
         "code": "CYRL",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.55
     },
     {
@@ -1912,8 +1912,8 @@
         "code": "CYPL",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "RAAS",
-        "timings": "Thunder Bay rdo",
+        "transmitter": "RAAS Thunder Bay rdo",
+        "timings": "",
         "frequency": 122.2
     },
     {
@@ -1921,8 +1921,8 @@
         "code": "CYPL",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "11-02Z‡ London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "11-02Z‡",
         "frequency": 123.475
     },
     {
@@ -1984,8 +1984,8 @@
         "code": "CYRO",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "Quebec rdo (Gatineau)",
+        "transmitter": "FISE Quebec rdo (Gatineau)",
+        "timings": "",
         "frequency": 123.375
     },
     {
@@ -2047,8 +2047,8 @@
         "code": "CYSP",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.55
     },
     {
@@ -2101,8 +2101,8 @@
         "code": "CYMO",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "RAAS",
-        "timings": "12-02Z‡ Timmins rdo",
+        "transmitter": "RAAS Timmins rdo",
+        "timings": "12-02Z‡",
         "frequency": 122.5
     },
     {
@@ -2110,8 +2110,8 @@
         "code": "CYMO",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.475
     },
     {
@@ -2254,8 +2254,8 @@
         "code": "CYGK",
         "province": "ON",
         "comm": "RCO",
-        "transmitter": "FISE",
-        "timings": "London rdo",
+        "transmitter": "FISE London rdo",
+        "timings": "",
         "frequency": 123.55
     },
     {
@@ -2887,5 +2887,923 @@
         "transmitter": "tfc",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.3
+    },
+    {
+        "airport": "Aklavik / Freddie Carmichael",
+        "code": "CYKD",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Aklavik / Freddie Carmichael",
+        "code": "CYKD",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "14-24Z‡ Mon - Sat, 15-20Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Cable Head Airpark",
+        "code": "CCA3",
+        "province": "PE",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Alert",
+        "code": "CYLT",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Alert",
+        "code": "CYLT",
+        "province": "NU",
+        "comm": "MIL",
+        "transmitter": "Alert Metro",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Arctic Bay",
+        "code": "CYAB",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Arctic Bay",
+        "code": "CYAB",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "12-23Z‡ Mon & Thr, 12-21Z‡ Tue, Wed, & Fri, 18-23Z‡ Sat",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Arctic Bay",
+        "code": "CYAB",
+        "province": "NU",
+        "comm": "LWIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Actic Watch Lodge",
+        "code": "CRW4",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "ARVIAT",
+        "code": "CYEK",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "ARVIAT",
+        "code": "CYEK",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1245-2315Z‡ Mon -Fri, 1445-2115Z‡ Sat & Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "ARVIAT",
+        "code": "CYEK",
+        "province": "NU",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Baker Lake",
+        "code": "CYBK",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": "122.375, 5680"
+    },
+    {
+        "airport": "Baker Lake",
+        "code": "CYBK",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Baker Lake",
+        "code": "CYBK",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Baker Lake",
+        "code": "CYBK",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Beaver Creek",
+        "code": "CYXQ",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Beaver Creek",
+        "code": "CYXQ",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Beaver Creek",
+        "code": "CYXQ",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Beaver Creek",
+        "code": "CYXQ",
+        "province": "YT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Braeburn",
+        "code": "CEK2",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bridgewater / Dayspring Airpark",
+        "code": "CDY6",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Burwash",
+        "code": "CYDB",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "Whitehorse rdo (W of A/D)",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Burwash",
+        "code": "CYDB",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "Whitehorse rdo (E of A/D)",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Burwash",
+        "code": "CYDB",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Burwash",
+        "code": "CYDB",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Burwash",
+        "code": "CYDB",
+        "province": "YT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Burwash",
+        "code": "CYDB",
+        "province": "YT",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.25
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.675
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "MIL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "228.900, 251.00, 270.400, 364.200"
+    },
+    {
+        "airport": "Cambridge Bay",
+        "code": "CYCB",
+        "province": "NU",
+        "comm": "INTL AIR",
+        "transmitter": "Gander rdo",
+        "timings": "",
+        "frequency": "2971, 4675, 8891, 11279"
+    },
+    {
+        "airport": "Carcross",
+        "code": "CFA4",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Carmacks",
+        "code": "CEX4",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Centredale",
+        "code": "CDL8",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cherterfield Inlet",
+        "code": "CYCS",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Cherterfield Inlet",
+        "code": "CYCS",
+        "province": "NU",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "1245-2315Z‡ Mon -Fri, 1445-2115Z‡ Sat & Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Clyde River",
+        "code": "CYCY",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Clyde River",
+        "code": "CYCY",
+        "province": "NU",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "1424-2315Z‡ Mon & Wed, 15-24Z‡ Tue, Wed, & Fri, 14-23Z‡ Sat, 11-20Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Clyde River",
+        "code": "CYCY",
+        "province": "NU",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.6
+    },
+    {
+        "airport": "Colville Lake / Tommy Kochon",
+        "code": "CYVL",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Colville Lake / Tommy Kochon",
+        "code": "CYVL",
+        "province": "NT",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.6
+    },
+    {
+        "airport": "Coral Harbour",
+        "code": "CYZS",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Coral Harbour",
+        "code": "CYZS",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Coral Harbour",
+        "code": "CYZS",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Coral Harbour",
+        "code": "CYZS",
+        "province": "NU",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.7
+    },
+    {
+        "airport": "Coral Harbour",
+        "code": "CYZS",
+        "province": "NU",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Dawson City",
+        "code": "CYDA",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Dawson City",
+        "code": "CYDA",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Dawson City",
+        "code": "CYDA",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Dawson City",
+        "code": "CYDA",
+        "province": "YT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "14-24Z Dec 1-Jan 31, 14-23Z Feb 1-May 31, 12-02Z Jun 1-Sep 30, 14-23Z Oct 1-Nov 30",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Debert",
+        "code": "CCQ3",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Debert",
+        "code": "CCQ3",
+        "province": "NS",
+        "comm": "ARR",
+        "transmitter": "Halifax Tml",
+        "timings": "",
+        "frequency": 119.2
+    },
+    {
+        "airport": "Debert",
+        "code": "CCQ3",
+        "province": "NS",
+        "comm": "DEP",
+        "transmitter": "Halifax Tml",
+        "timings": "",
+        "frequency": 119.2
+    },
+    {
+        "airport": "Debert",
+        "code": "CCQ3",
+        "province": "NS",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.275
+    },
+    {
+        "airport": "Deline",
+        "code": "CYWJ",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Deline",
+        "code": "CYWJ",
+        "province": "NT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "14-00Z‡ Mon-Sat, 18-23Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Diavik",
+        "code": "CDK2",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Digby Municipal Airport",
+        "code": "CYID",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "East Gore ECO Airpark",
+        "code": "CCY4",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "EKATI",
+        "code": "CYOA",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "EKATI",
+        "code": "CYOA",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "EKATI",
+        "code": "CYOA",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "EKATI",
+        "code": "CYOA",
+        "province": "NT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.175
+    },
+    {
+        "airport": "EKATI",
+        "code": "CYOA",
+        "province": "NT",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Eureka",
+        "code": "CYEU",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Faro",
+        "code": "CZFA",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Faro",
+        "code": "CZFA",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Faro",
+        "code": "CZFA",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Faro",
+        "code": "CZFA",
+        "province": "YT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "13-01Z Jun 1-Sep 30, 14-22Z Oct 1-May 31",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Finlay Air Park",
+        "code": "CDH3",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Finlayson Lake",
+        "code": "CFT3",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ford Bay",
+        "code": "CBC2",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Fort Good Hope",
+        "code": "CYGH",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Good Hope",
+        "code": "CYGH",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Good Hope",
+        "code": "CYGH",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort Good Hope",
+        "code": "CYGH",
+        "province": "NT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "14-24Z‡ Mon-Sat, 14-19Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort Liard",
+        "code": "CYJF",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort Liard",
+        "code": "CYJF",
+        "province": "NT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "15-23Z‡ Mon-Fri",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort McPherson",
+        "code": "CZFM",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort McPherson",
+        "code": "CZFM",
+        "province": "NT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "14-24Z‡ Mon-Sat, 15-20Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort Providence",
+        "code": "CYJP",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort Resolution",
+        "code": "CYFR",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort Resolution",
+        "code": "CYFR",
+        "province": "NT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "15-23Z‡ Mon-Fri",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 296.6
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "CNCL DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.4
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.4
+    },
+    {
+        "airport": "Fort Simpson",
+        "code": "CYFS",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Fort Simpson Island",
+        "code": "CET4",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Fort Simpson Island",
+        "code": "CET4",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 296.6
+    },
+    {
+        "airport": "Fort Simpson Island",
+        "code": "CET4",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "Fort Simpson aprt rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Fort Smith",
+        "code": "CYSM",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Smith",
+        "code": "CYSM",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 239.8
+    },
+    {
+        "airport": "Fort Smith",
+        "code": "CYSM",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Fort Smith",
+        "code": "CYSM",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Fox Harbour",
+        "code": "CFH4",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.2
     }
 ]
