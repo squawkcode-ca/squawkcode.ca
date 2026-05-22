@@ -3805,5 +3805,725 @@
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.2
+    },
+    {
+        "airport": "Gahcho",
+        "code": "CGK2",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Gahcho",
+        "code": "CGK2",
+        "province": "NT",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Gameti / RAE LAKES",
+        "code": "CYRA",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Gameti / RAE LAKES",
+        "code": "CYRA",
+        "province": "NT",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "15-01Z‡ Sun-Fri, 16-21Z‡ Sat",
+        "frequency": 122.1
+    },
+    {
+        "airport": "George Lake",
+        "code": "CGR3",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Gjoa Haven",
+        "code": "CYHK",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Gjoa Haven",
+        "code": "CYHK",
+        "province": "NU",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "13-01Z‡ Mon, Tue, Thr, Fri, & Sun, 13-23Z‡ Wed",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Gjoa Haven",
+        "code": "CYHK",
+        "province": "NU",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Goose Lake",
+        "code": "CGS2",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Great Bear Lake",
+        "code": "CFF4",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Gereenwood",
+        "code": "CYZX",
+        "province": "NS",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "11-24Z‡",
+        "frequency": "128.850, 244.300"
+    },
+    {
+        "airport": "Gereenwood",
+        "code": "CYZX",
+        "province": "NS",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "128.025, 283.900"
+    },
+    {
+        "airport": "Gereenwood",
+        "code": "CYZX",
+        "province": "NS",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "133.750, 289.400"
+    },
+    {
+        "airport": "Gereenwood",
+        "code": "CYZX",
+        "province": "NS",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.500, 236.600, 324.300"
+    },
+    {
+        "airport": "Gereenwood",
+        "code": "CYZX",
+        "province": "NS",
+        "comm": "TML",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "120.600, 335.900"
+    },
+    {
+        "airport": "Gereenwood",
+        "code": "CYZX",
+        "province": "NS",
+        "comm": "PMSV",
+        "transmitter": "",
+        "timings": "ltd hrs",
+        "frequency": 344.6
+    },
+    {
+        "airport": "Grise Fiord",
+        "code": "CYGZ",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Grise Fiord",
+        "code": "CYGZ",
+        "province": "NU",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "13-21Z‡ Mon, Tue, Thr, & Fri, 17-01Z‡ Wed",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Haines Junction",
+        "code": "CYHT",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Haines Junction",
+        "code": "CYHT",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Haines Junction",
+        "code": "CYHT",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "11-24Z‡ Mon-Fri, clsd Sat & Sun",
+        "frequency": "129.175, 308.800"
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "11-24Z‡ Mon-Fri, clsd Sat & Sun",
+        "frequency": "121.700, 250.100"
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "MF",
+        "transmitter": "Shearwater advsy",
+        "timings": "11-24Z‡ Mon-Fri, clsd Sat & Sun",
+        "frequency": "126.200, 119.000, 340.200, 360.200"
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "PAR",
+        "transmitter": "",
+        "timings": "11-24Z‡ Mon-Fri, clsd Sat & Sun",
+        "frequency": "128.100, 134.100, 289.400, 346.600"
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 126.2
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "ARR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 119.2
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "DEP",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 119.2
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "MIL",
+        "transmitter": "Shearwater Mil",
+        "timings": "",
+        "frequency": "239.300, 231.950"
+    },
+    {
+        "airport": "Halifax",
+        "code": "CYAW",
+        "province": "NS",
+        "comm": "PMSV",
+        "transmitter": "",
+        "timings": "11-24Z‡ Mon-Fri, clsd Sat & Sun",
+        "frequency": 344.6
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 121
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.95
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "121.900, 275.800"
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "118.400, 236.600"
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "TML",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.200, 118.700, 128.55, 363.800"
+    },
+    {
+        "airport": "Halifax / Stanfield Intl",
+        "code": "CYHZ",
+        "province": "NS",
+        "comm": "PAL",
+        "transmitter": "Moncton Ctr",
+        "timings": "",
+        "frequency": 135.3
+    },
+    {
+        "airport": "Hay River / Merlyn Carter Airport",
+        "code": "CYHY",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Hay River / Merlyn Carter Airport",
+        "code": "CYHY",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Hay River / Merlyn Carter Airport",
+        "code": "CYHY",
+        "province": "NT",
+        "comm": "CLNC DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.85
+    },
+    {
+        "airport": "Hay River / Merlyn Carter Airport",
+        "code": "CYHY",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Hay River / Merlyn Carter Airport",
+        "code": "CYHY",
+        "province": "NT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.85
+    },
+    {
+        "airport": "Hay River / Merlyn Carter Airport",
+        "code": "CYHY",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Hayes Camp",
+        "code": "CHC5",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Hillaton / Kings Aerodrome",
+        "code": "CHL2",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Hope Bay",
+        "code": "CHB3",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Hyland",
+        "code": "CFT5",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Igloolik",
+        "code": "CYGT",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Igloolik",
+        "code": "CYGT",
+        "province": "NU",
+        "comm": "ARPT RDO",
+        "transmitter": "",
+        "timings": "17-2130Z‡ Sun, 11-22Z‡ Mon & Tue, 10-21Z‡ Wed, 10-22Z‡ Thu, 11-22Z‡ Fri, 16-2030Z‡ Sat",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "122.300, 262.700"
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 5680
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "ltd hrs",
+        "frequency": 128.5
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Inuvik (Mike Zubko)",
+        "code": "CYEV",
+        "province": "NT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 132.4
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "RADIO",
+        "transmitter": "Iqaluit",
+        "timings": "",
+        "frequency": "122.200, 296.200"
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 5680
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "Iqaluit rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 134.55
+    },
+    {
+        "airport": "Iqaluit",
+        "code": "CYFB",
+        "province": "NU",
+        "comm": "INTL AIR",
+        "transmitter": "Gander rdo",
+        "timings": "",
+        "frequency": "126.900, 2971, 4675, 8891, 11279"
+    },
+    {
+        "airport": "Jean Marie River",
+        "code": "CET9",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kasba Lake",
+        "code": "CJL8",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Kimmirut",
+        "code": "CYLC",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kimmirut",
+        "code": "CYLC",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "11-20Z‡ Mon & Fri, 13-21Z‡ Tue, Wed, & Thu",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kinngait Airport",
+        "code": "CYTE",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Kinngait Airport",
+        "code": "CYTE",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Kinngait Airport",
+        "code": "CYTE",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kinngait Airport",
+        "code": "CYTE",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "13-22Z‡ Mon & Wed, 14-21Z‡ Tue, 12-17Z‡ Thu, 12-22Z‡ Fri",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kinngait Airport",
+        "code": "CYTE",
+        "province": "NU",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Kugaaruk",
+        "code": "CYBB",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kugaaruk",
+        "code": "CYBB",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "13-24Z‡ Mon-Fri, 16-01Z‡ Sat, 18-24Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kugluktuk",
+        "code": "CYCO",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.15
+    },
+    {
+        "airport": "Kugluktuk",
+        "code": "CYCO",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Kugluktuk",
+        "code": "CYCO",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kugluktuk",
+        "code": "CYCO",
+        "province": "NU",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 124.25
+    },
+    {
+        "airport": "Kugluktuk",
+        "code": "CYCO",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
     }
 ]
