@@ -4525,5 +4525,302 @@
         "transmitter": "",
         "timings": "",
         "frequency": 122.1
+    },
+    {
+        "airport": "La Biche River",
+        "code": "CFP6",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Liverpool / South Shore Regional",
+        "code": "CYAU",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Liverpool / South Shore Regional",
+        "code": "CYAU",
+        "province": "NS",
+        "comm": "ARR",
+        "transmitter": "Moncton Ctr",
+        "timings": "",
+        "frequency": 123.9
+    },
+    {
+        "airport": "Liverpool / South Shore Regional",
+        "code": "CYAU",
+        "province": "NS",
+        "comm": "DEP",
+        "transmitter": "Moncton Ctr",
+        "timings": "",
+        "frequency": 123.9
+    },
+    {
+        "airport": "Lower East Pubnico (La Field)",
+        "code": "CLE4",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lutselk'e",
+        "code": "CYLK",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Lutselk'e",
+        "code": "CYLK",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "15-01Z‡ Sun-Fri, 16-21Z‡ Sat",
+        "frequency": 122.1
+    },
+    {
+        "airport": "MacMillan Pass",
+        "code": "CFC4",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Mary River",
+        "code": "CMR2",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Mary River",
+        "code": "CMR2",
+        "province": "NU",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Mayo",
+        "code": "CYMA",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 122.375
+    },
+    {
+        "airport": "Mayo",
+        "code": "CYMA",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Mayo",
+        "code": "CYMA",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Mayo",
+        "code": "CYMA",
+        "province": "YT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.65
+    },
+    {
+        "airport": "Mayo",
+        "code": "CYMA",
+        "province": "YT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "McQuesten",
+        "code": "CFP4",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Meadowbank",
+        "code": "CMB2",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "11-23Z‡ O/T tfc",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Meteghan / Keizers Air Park",
+        "code": "CKZ5",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Minto",
+        "code": "CMN4",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Nahanni Butte",
+        "code": "CBD6",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Naujaat",
+        "code": "CYUT",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Naujaat",
+        "code": "CYUT",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1245-2315Z‡ Mon-Fri, 1445-2115Z‡ Sat & Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Norman Wells",
+        "code": "CYVQ",
+        "province": "NT",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "122.200, 282.300"
+    },
+    {
+        "airport": "Norman Wells",
+        "code": "CYVQ",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Norman Wells",
+        "code": "CYVQ",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Norman Wells",
+        "code": "CYVQ",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Norman Wells",
+        "code": "CYVQ",
+        "province": "NT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.825
+    },
+    {
+        "airport": "Obre Lake / North of sixty",
+        "code": "CKV4",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs (Jun 01-Aug 15) O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Ogilvie",
+        "code": "CFS4",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Old Crow",
+        "code": "CYOC",
+        "province": "YT",
+        "comm": "DRCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Old Crow",
+        "code": "CYOC",
+        "province": "YT",
+        "comm": "DRCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Old Crow",
+        "code": "CYOC",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Old Crow",
+        "code": "CYOC",
+        "province": "YT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "13-01Z",
+        "frequency": 122.1
     }
 ]
