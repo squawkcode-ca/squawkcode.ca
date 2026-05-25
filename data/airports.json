@@ -5004,21 +5004,354 @@
         "frequency": 122.1
     },
     {
-        "airport": "",
-        "code": "",
-        "province": "",
+        "airport": "Qikiqtarjuaq",
+        "code": "CYVM",
+        "province": "NU",
         "comm": "APRT RDO",
         "transmitter": "",
         "timings": "11-21Z‡ Mon & Wed, 13-23Z‡ Tue, 14-23Z‡ Thu, 13-22Z‡ Fri, & Sat, 11-18Z‡ Sun",
         "frequency": 122.1
     },
     {
-        "airport": "",
-        "code": "",
-        "province": "",
+        "airport": "Qikiqtarjuaq",
+        "code": "CYVM",
+        "province": "NU",
         "comm": "AWOS",
         "transmitter": "",
         "timings": "",
         "frequency": 122.55
+    },
+    {
+        "airport": "Rae/ Edzo",
+        "code": "CRE",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rankin Inlet",
+        "code": "CYRT",
+        "province": "NU",
+        "comm": "RADIO",
+        "transmitter": "Rankin rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Rankin Inlet",
+        "code": "CYRT",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Rankin Inlet",
+        "code": "CYRT",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Rankin Inlet",
+        "code": "CYRT",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "Rankin rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Rankin Inlet",
+        "code": "CYRT",
+        "province": "NU",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134
+    },
+    {
+        "airport": "Resolute Bay",
+        "code": "CYRB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": "126.7, 5680"
+    },
+    {
+        "airport": "Resolute Bay",
+        "code": "CYRB",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": ""
+    },
+    {
+        "airport": "Resolute Bay",
+        "code": "CYRB",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Resolute Bay",
+        "code": "CYRB",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Ross River",
+        "code": "CYDM",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Sable Island",
+        "code": "CSB2",
+        "province": "NS",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.75
+    },
+    {
+        "airport": "Sable Island",
+        "code": "CSB2",
+        "province": "NS",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "Ltd hrs",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Sable Island",
+        "code": "CSB2",
+        "province": "NS",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.2
+    },
+    {
+        "airport": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq)",
+        "code": "CYSY",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq)",
+        "code": "CYSY",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq)",
+        "code": "CYSY",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Sachs Harbour (David Nasogaluak Jr. Saaryuaq)",
+        "code": "CYSY",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Sambaa K'E",
+        "code": "CEU9",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Sanikiluaq",
+        "code": "CYSK",
+        "province": "NU",
+        "comm": "MF/ATF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Sanikiluaq",
+        "code": "CYSK",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Sanirajak Airport",
+        "code": "CYUX",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Sanirajak Airport",
+        "code": "CYUX",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Sanirajak Airport",
+        "code": "CYUX",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Sanirajak Airport",
+        "code": "CYUX",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "12-24Z",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Sanirajak Airport",
+        "code": "CYUX",
+        "province": "NU",
+        "comm": "MIL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "228.900, 256.600, 263.200, 364.200"
+    },
+    {
+        "airport": "Sanirajak Airport",
+        "code": "CYUX",
+        "province": "NU",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Silver City",
+        "code": "CFQ5",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Snare River",
+        "code": "CEV9",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Stanley",
+        "code": "CCW4",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Summerside",
+        "code": "CYSU",
+        "province": "PE",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.95
+    },
+    {
+        "airport": "Summerside",
+        "code": "CYSU",
+        "province": "PE",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Sydney / J. A. Douglas McCurdy",
+        "code": "CYQY",
+        "province": "NS",
+        "comm": "RCO",
+        "transmitter": "RAAS Charlottetown rdo",
+        "timings": "",
+        "frequency": 122
+    },
+    {
+        "airport": "Sydney / J. A. Douglas McCurdy",
+        "code": "CYQY",
+        "province": "NS",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Sydney / J. A. Douglas McCurdy",
+        "code": "CYQY",
+        "province": "NS",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Sydney / J. A. Douglas McCurdy",
+        "code": "CYQY",
+        "province": "NS",
+        "comm": "MF",
+        "transmitter": "Charlottetown rdo",
+        "timings": "",
+        "frequency": 122
+    },
+    {
+        "airport": "Sydney / J. A. Douglas McCurdy",
+        "code": "CYQY",
+        "province": "NS",
+        "comm": "PAL",
+        "transmitter": "Moncton Ctr",
+        "timings": "",
+        "frequency": "188.600, 266.300"
     }
 ]
