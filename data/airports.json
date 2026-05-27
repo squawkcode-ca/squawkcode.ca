@@ -5353,5 +5353,482 @@
         "transmitter": "Moncton Ctr",
         "timings": "",
         "frequency": "188.600, 266.300"
+    },
+    {
+        "airport": "Taloyoak",
+        "code": "CYYH",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Taloyoak",
+        "code": "CYYH",
+        "province": "NU",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Taloyoak",
+        "code": "CYYH",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Taltheilei Narrows",
+        "code": "CFA7",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Taltson River",
+        "code": "CFW5",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Tanquary Fiord",
+        "code": "CJQ6",
+        "province": "NU",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Tanquary Fiord",
+        "code": "CJQ6",
+        "province": "NU",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "4472.5, 4960.0, 4441.0"
+    },
+    {
+        "airport": "Teslin",
+        "code": "CYZW",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Teslin",
+        "code": "CYZW",
+        "province": "YT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Trenton",
+        "code": "CYTN",
+        "province": "NS",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "12-21Z‡ Mon-Fri O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Trenton",
+        "code": "CYTN",
+        "province": "NS",
+        "comm": "PAL",
+        "transmitter": "Moncton Ctr",
+        "timings": "",
+        "frequency": "135.300, 135.650"
+    },
+    {
+        "airport": "Tuktoyaktuk / James Gruben",
+        "code": "CYUB",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Tuktoyaktuk / James Gruben",
+        "code": "CYUB",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "TUK aprt rdo",
+        "timings": "14-06Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Tulita",
+        "code": "CZFN",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Tulita",
+        "code": "CZFN",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "16-24Z‡ Mon-Fri",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Tundra Mine / Salamita Mine",
+        "code": "CTM7",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Tungsten (Cantung)",
+        "code": "CBX5",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Twin Creeks",
+        "code": "CFS7",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ulukhaktok",
+        "code": "CYHI",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Ulukhaktok",
+        "code": "CYHI",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Ulukhaktok",
+        "code": "CYHI",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Ulukhaktok",
+        "code": "CYHI",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "15-01Z‡ Mon-Sat, 15-20Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Watson Lake",
+        "code": "CYQH",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Watson Lake",
+        "code": "CYQH",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Watson Lake",
+        "code": "CYQH",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Watson Lake",
+        "code": "CYQH",
+        "province": "YT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Wekweeti",
+        "code": "CYWE",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wekweeti",
+        "code": "CYWE",
+        "province": "NT",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Whale Cove",
+        "code": "CYXN",
+        "province": "NU",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Whale Cove",
+        "code": "CYXN",
+        "province": "NU",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1245-2315Z‡ Mon-Fri, 1445-2115Z‡ Sat-Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Whati",
+        "code": "CEM3",
+        "province": "NT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "FISE",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 125.25
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "14-04Z",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "14-04Z",
+        "frequency": "118.300, 236.600"
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "14-04Z",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Whitehorse / Erik Nielsen Intl",
+        "code": "CYXY",
+        "province": "YT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": "132.100, 134.150"
+    },
+    {
+        "airport": "Whitehorse / Cousins",
+        "code": "CFP8",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wiley",
+        "code": "CAJ2",
+        "province": "YT",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wrigley",
+        "code": "CYWY",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Wrigley",
+        "code": "CYWY",
+        "province": "NT",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "15-23Z‡ Mon-Fri",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Yarmouth",
+        "code": "CYQI",
+        "province": "NS",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Yarmouth",
+        "code": "CYQI",
+        "province": "NS",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-21Z‡ Mon-Fri O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Yarmouth",
+        "code": "CYQI",
+        "province": "NS",
+        "comm": "PAL",
+        "transmitter": "Moncton Ctr",
+        "timings": "",
+        "frequency": "123.900, 368.500"
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "RADIO",
+        "transmitter": "rdo",
+        "timings": "05-14Z‡",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": "5680, 262.000, 123.375"
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.4
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": "118.500, 340.800"
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "05-14Z‡",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Yellowknife",
+        "code": "CYZF",
+        "province": "NT",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.8
     }
 ]
