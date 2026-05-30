@@ -5893,5 +5893,707 @@
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.8
+    },
+    {
+        "airport": "Bathurst",
+        "code": "CZBF",
+        "province": "NB",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Bathurst",
+        "code": "CZBF",
+        "province": "NB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Bathurst",
+        "code": "CZBF",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "12-23Z‡ OT 2 hr PN",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bathurst",
+        "code": "CZBF",
+        "province": "NB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 127.925
+    },
+    {
+        "airport": "Beauval",
+        "code": "CJK3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bell Island",
+        "code": "CCV4",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Berens River",
+        "code": "CYBV",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Berens River",
+        "code": "CYBV",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Berens River",
+        "code": "CYBV",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Biggar",
+        "code": "CJF8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Big River",
+        "code": "CKX8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Big Sand Lake",
+        "code": "CJQ9",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Birch Hills",
+        "code": "CJD3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bird River (Lac Du Bonnet)",
+        "code": "CJP7",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Black Tickle",
+        "code": "CCE4",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bloodvein River",
+        "code": "CZTA",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Boston Brook",
+        "code": "CCJ3",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bouctouche",
+        "code": "CDT5",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "13-04Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "13-04Z‡ O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "ARR",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 132.25
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "DEP",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 132.25
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 132.25
+    },
+    {
+        "airport": "Brandon Muni",
+        "code": "CYBR",
+        "province": "MB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "04-13Z‡",
+        "frequency": 128.175
+    },
+    {
+        "airport": "Briercrest South",
+        "code": "CBS7",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bristol",
+        "code": "CDA6",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Brochet",
+        "code": "CYBT",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Brockway",
+        "code": "CCX3",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Buffalo Narrows",
+        "code": "CYVT",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "RAAS Regina rdo",
+        "timings": "14-02Z",
+        "frequency": 118.65
+    },
+    {
+        "airport": "Buffalo Narrows",
+        "code": "CYVT",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Buffalo Narrows",
+        "code": "CYVT",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Buffalo Narrows",
+        "code": "CYVT",
+        "province": "SK",
+        "comm": "MF",
+        "transmitter": "Regina rdo",
+        "timings": "14-02Z O/T tfc",
+        "frequency": 118.65
+    },
+    {
+        "airport": "Buffalo Narrows",
+        "code": "CYVT",
+        "province": "SK",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.6
+    },
+    {
+        "airport": "Cabri",
+        "code": "CJJ5",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Camsell Portage",
+        "code": "CJP6",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Candle Lake Airpark",
+        "code": "CCL2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Carlyle",
+        "code": "CJQ3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Carlyle",
+        "code": "CJQ3",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Carman (South)",
+        "code": "CJS7",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cartwright",
+        "code": "CYCA",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cartwright",
+        "code": "CYCA",
+        "province": "NL",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.75
+    },
+    {
+        "airport": "Central Butte",
+        "code": "CJC4",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Centreville / Graham Field",
+        "code": "CGR7",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Charlot River",
+        "code": "CJP9",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.725
+    },
+    {
+        "airport": "Charlottetown",
+        "code": "CCH4",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Chipman",
+        "code": "CCS4",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Churchill",
+        "code": "CYYQ",
+        "province": "MB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 126.9
+    },
+    {
+        "airport": "Churchill",
+        "code": "CYYQ",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Churchill",
+        "code": "CYYQ",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Churchill",
+        "code": "CYYQ",
+        "province": "MB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.2
+    },
+    {
+        "airport": "Churchill",
+        "code": "CYYQ",
+        "province": "MB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 126.9
+    },
+    {
+        "airport": "Churchill",
+        "code": "CYYQ",
+        "province": "MB",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 134.6
+    },
+    {
+        "airport": "Churchill Falls",
+        "code": "CZUM",
+        "province": "NL",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.25
+    },
+    {
+        "airport": "Churchill Falls",
+        "code": "CZUM",
+        "province": "NL",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Churchill Falls",
+        "code": "CZUM",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Churchill Falls",
+        "code": "CZUM",
+        "province": "NL",
+        "comm": "PAL",
+        "transmitter": "Gander Ctr",
+        "timings": "",
+        "frequency": 126.025
+    },
+    {
+        "airport": "Churchill Falls",
+        "code": "CZUM",
+        "province": "NL",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.95
+    },
+    {
+        "airport": "Cigar Lake",
+        "code": "CJW7",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Cigar Lake",
+        "code": "CJW7",
+        "province": "SK",
+        "comm": "A/G",
+        "transmitter": "Cameco dispatch",
+        "timings": "",
+        "frequency": 122.875
+    },
+    {
+        "airport": "Cigar Lake",
+        "code": "CJW7",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Clarenville",
+        "code": "CCZ3",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Clearwater",
+        "code": "CDJ4",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Collins Bay",
+        "code": "CYKC",
+        "province": "SK",
+        "comm": "DRCO",
+        "transmitter": "FISE Edmonton rdo (Wollaston Lake)",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Collins Bay",
+        "code": "CYKC",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Collins Bay",
+        "code": "CYKC",
+        "province": "SK",
+        "comm": "A/G",
+        "transmitter": "Cameco dispatch",
+        "timings": "",
+        "frequency": 122.875
+    },
+    {
+        "airport": "Collins Bay",
+        "code": "CYKC",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Cooks Creek",
+        "code": "CCC3",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cormier",
+        "code": "CRM4",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Coronach / Scobey Border Station",
+        "code": "CKK3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Craik",
+        "code": "CJC2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cree Lake / Crystal Lodge (Midgett Field)",
+        "code": "CKS8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cross Lake (Charlie Sinclair Mem)",
+        "code": "CYCR",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "Cross Lake UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Crystal City-Pilot Mound / Louise Muni",
+        "code": "CKZ6",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "Louise Munitfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cudworth Muni",
+        "code": "CJD2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cumberland House",
+        "code": "CJT4",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cumberland House",
+        "code": "CJT4",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
     }
 ]
