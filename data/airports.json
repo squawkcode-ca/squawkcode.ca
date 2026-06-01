@@ -7486,5 +7486,185 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Ile-A-La-Crosse",
+        "code": "CJF3",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo (Buffalo Narrows)",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Ile-A-La-Crosse",
+        "code": "CJF3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ile-A-La-Crosse",
+        "code": "CJF3",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.075
+    },
+    {
+        "airport": "Ilford",
+        "code": "CZBD",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Island Lake",
+        "code": "CYIV",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "RAAS Thunder Bay rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Island Lake",
+        "code": "CYIV",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 122.375
+    },
+    {
+        "airport": "Island Lake",
+        "code": "CYIV",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Island Lake",
+        "code": "CYIV",
+        "province": "MB",
+        "comm": "MF",
+        "transmitter": "Thunder Bay rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Island Lake",
+        "code": "CYIV",
+        "province": "MB",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 132.825
+    },
+    {
+        "airport": "Island Lake",
+        "code": "CYIV",
+        "province": "MB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.1
+    },
+    {
+        "airport": "Ituna",
+        "code": "CJM2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Jenpeg",
+        "code": "CZJG",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Juniper",
+        "code": "CCE3",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kamsack",
+        "code": "CJN2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kaskattama River",
+        "code": "CAS3",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kelsey",
+        "code": "CZEE",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "14-23Z‡ O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Kelsey",
+        "code": "CZEE",
+        "province": "MB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Kelvington",
+        "code": "CKV2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kel Vington / Clayton Air 2",
+        "code": "CKA2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kel Vington / Clayton Air 2",
+        "code": "CKA2",
+        "province": "SK",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "123.550, 123.450"
     }
 ]
