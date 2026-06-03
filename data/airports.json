@@ -8278,5 +8278,293 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Miramichi",
+        "code": "CYCH",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "11-23Z‡ ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Misaw Lake",
+        "code": "CAM2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Molson Lake",
+        "code": "CKJ8",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 122.5
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.65
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "APRON ADV",
+        "transmitter": "Apron VIII",
+        "timings": "",
+        "frequency": 122.075
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "121.800, 275.800"
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "120.800, 236.600"
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "ARR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.4
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "DEP",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.4
+    },
+    {
+        "airport": "Moncton / Greater Moncton Romeo Leblanc Intl",
+        "code": "CYQM",
+        "province": "NB",
+        "comm": "PAL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "124.400, 127.125, 132.200"
+    },
+    {
+        "airport": "Moncton / McEwen",
+        "code": "CCG4",
+        "province": "NB",
+        "comm": "TWR",
+        "transmitter": "Moncton",
+        "timings": "",
+        "frequency": "120.800, 236.600"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "COMM",
+        "transmitter": "14-0030Z Mon-Fri (fr 1st Mon Nov to 3rd Mon Feb 1430-01Z Mon-Fri), A/D frequently clsd Sat & Sun.",
+        "timings": "",
+        "frequency": ""
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "131.300, 257.800"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "135.300, 234.400"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "121.800, 275.800"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "126.200, 295.600, 310.800, 322.600"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "TML",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.000, 227.600, 342.900"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "ARR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.000, 129.100, 134.1x"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "DEP",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.000, 227.600, 342.900"
+    },
+    {
+        "airport": "Moose Jaw / Air Vice Marshal C. M. McEwen",
+        "code": "CYMJ",
+        "province": "SK",
+        "comm": "PMSV",
+        "transmitter": "",
+        "timings": "Ltd hrs",
+        "frequency": 344.6
+    },
+    {
+        "airport": "Moose Jaw Muni",
+        "code": "CJS4",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Moosomin / Marshall McLeod Field",
+        "code": "CJB5",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Morden Regional",
+        "code": "CJA3",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Nain",
+        "code": "CYDP",
+        "province": "NL",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.65
+    },
+    {
+        "airport": "Nain",
+        "code": "CYDP",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Natuashish",
+        "code": "CNH2",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Neepawa",
+        "code": "CJV5",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Neilburg",
+        "code": "CJV2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Nejanilini Lake",
+        "code": "CYNN",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs Jun 30-Oct 30 O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Nekweaga Bay",
+        "code": "CKN 8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
