@@ -8098,5 +8098,185 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "MacGregor Airfield",
+        "code": "CKF6",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Macklin",
+        "code": "CJJ8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Maidstone",
+        "code": "CJH3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Makkovik",
+        "code": "CYFT",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Malcolm Island",
+        "code": "CJS2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 128.85
+    },
+    {
+        "airport": "Manitou",
+        "code": "CKG5",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Maple Creek",
+        "code": "CJQ4",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Marcelin / Clayton Air",
+        "code": "CMC4",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Marcelin / Clayton Air",
+        "code": "CMC4",
+        "province": "SK",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "123.450, 123.550"
+    },
+    {
+        "airport": "Maryfield",
+        "code": "CJQ8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Mary's Harbour",
+        "code": "CYMH",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Mary's Harbour",
+        "code": "CYMH",
+        "province": "NL",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "McArthur River",
+        "code": "CKQ8",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "McArthur River",
+        "code": "CKQ8",
+        "province": "SK",
+        "comm": "A/G",
+        "transmitter": "Cameco dispatch",
+        "timings": "",
+        "frequency": 122.875
+    },
+    {
+        "airport": "McArthur River",
+        "code": "CKQ8",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.275
+    },
+    {
+        "airport": "McCreary",
+        "code": "CJR8",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Meadow Lake",
+        "code": "CYLJ",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Melfort (Miller Field)",
+        "code": "CJZ3",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Melita",
+        "code": "CJT5",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Minnedosa",
+        "code": "CJU5",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
