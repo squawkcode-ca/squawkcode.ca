@@ -8401,8 +8401,8 @@
         "code": "CYMJ",
         "province": "SK",
         "comm": "COMM",
-        "transmitter": "14-0030Z Mon-Fri (fr 1st Mon Nov to 3rd Mon Feb 1430-01Z Mon-Fri), A/D frequently clsd Sat & Sun.",
-        "timings": "",
+        "transmitter": "",
+        "timings": "14-0030Z Mon-Fri (fr 1st Mon Nov to 3rd Mon Feb 1430-01Z Mon-Fri), A/D frequently clsd Sat & Sun.",
         "frequency": ""
     },
     {
@@ -8566,5 +8566,266 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Nipawin",
+        "code": "CYBU",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Nipawin",
+        "code": "CYBU",
+        "province": "SK",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.75
+    },
+    {
+        "airport": "North Battleford",
+        "code": "CYQW",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "North Battleford",
+        "code": "CYQW",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "North Battleford",
+        "code": "CYQW",
+        "province": "SK",
+        "comm": "MF",
+        "transmitter": "tfc (no ground station)",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "North Battleford",
+        "code": "CYQW",
+        "province": "SK",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.125
+    },
+    {
+        "airport": "North Seal River",
+        "code": "CEG8",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Norway House",
+        "code": "CYNE",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "RAAS Kenora rdo",
+        "timings": "13-02Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Norway House",
+        "code": "CYNE",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Norway House",
+        "code": "CYNE",
+        "province": "MB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Norway House",
+        "code": "CYNE",
+        "province": "MB",
+        "comm": "MF",
+        "transmitter": "Kenora rdo",
+        "timings": "13-02Z‡ O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Norway House",
+        "code": "CYNE",
+        "province": "MB",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 135.1
+    },
+    {
+        "airport": "Norway House",
+        "code": "CYNE",
+        "province": "MB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 127.7
+    },
+    {
+        "airport": "Nueltin Lake",
+        "code": "CNL9",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "Treeline UNICOM",
+        "timings": "ltd hrs Jun 15 - Sep 15 O/T tfc",
+        "frequency": 129.6
+    },
+    {
+        "airport": "Oak Hammock Air Park",
+        "code": "CAV9",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Odessa / Strawberry Lakes",
+        "code": "CSL7",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Outlook (South)",
+        "code": "CCL9",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Oxbow",
+        "code": "CJW2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Oxford House",
+        "code": "CYOH",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Oxford House",
+        "code": "CYOH",
+        "province": "MB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.125
+    },
+    {
+        "airport": "Pangman",
+        "code": "CKC9",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Patuanak",
+        "code": "CKB2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Pelican Narrows",
+        "code": "CJW4",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Pierceland (Turchyn Field)",
+        "code": "CTF5",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Pikwitonei",
+        "code": "CZMN",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Pinehouse Lake",
+        "code": "CZPO",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Pinehouse Lake",
+        "code": "CZPO",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "Points North Landing",
+        "code": "CYNL",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "68 Points North UNICOM ltd hrs O/T tfc",
+        "timings": "",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Points North Landing",
+        "code": "CYNL",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
     }
 ]
