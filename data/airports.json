@@ -8827,5 +8827,50 @@
         "transmitter": "",
         "timings": "",
         "frequency": 122.55
+    },
+    {
+        "airport": "Pokemouche",
+        "code": "CDA4",
+        "province": "NB",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo (Bathrust)",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Pokemouche",
+        "code": "CDA4",
+        "province": "NB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Poplar River",
+        "code": "CZNG",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Porcupine Plain",
+        "code": "CKD2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Portage La Prairie (North)",
+        "code": "CJZ2",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
     }
 ]
