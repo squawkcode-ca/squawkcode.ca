@@ -8872,5 +8872,392 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 122.8
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "14-24Z‡ Mon-Fri exc hols",
+        "frequency": 120.85
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "14-24Z‡ Mon-Fri exc hols",
+        "frequency": 121.7
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "14-24Z‡ Mon-Fri exc hols",
+        "frequency": 126.2
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "14-24Z‡ Mon-Fri exc hols",
+        "frequency": 126.2
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "ARR",
+        "transmitter": "Winnipeg Tml",
+        "timings": "00-14Z‡ Mon-Fri, H24 Sat, Sun, & hols",
+        "frequency": 121
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "DEP",
+        "transmitter": "Winnipeg Tml",
+        "timings": "",
+        "frequency": 121
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "VFR ADV",
+        "transmitter": "Winnipeg Tml",
+        "timings": "",
+        "frequency": 121
+    },
+    {
+        "airport": "Portage La Prairie / Southport",
+        "code": "CYPG",
+        "province": "MB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "Port Au Choix",
+        "code": "CCM4",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Port Hope Simpson",
+        "code": "CCP4",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Postville",
+        "code": "CCD4",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Poverty Valley",
+        "code": "CPV9",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Preeceville",
+        "code": "CJK9",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "12-03Z",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "12-03Z O/T tfc",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "ARR",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 133.9
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "DEP",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 133.9
+    },
+    {
+        "airport": "Prince Albert (Glass Field)",
+        "code": "CYPA",
+        "province": "SK",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "03-12Z",
+        "frequency": 128.05
+    },
+    {
+        "airport": "Pukatawagan",
+        "code": "CZFG",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Quill Lake",
+        "code": "CKE2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Radville",
+        "code": "CKF2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Red Sucker Lake",
+        "code": "CYRS",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Red Sucker Lake",
+        "code": "CYRS",
+        "province": "MB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.075
+    },
+    {
+        "airport": "Regina / Aerogate",
+        "code": "CAG2",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Regina Beach",
+        "code": "CKL9",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "04-12Z",
+        "frequency": 118.6
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 127
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "12-04Z",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "12-04Z",
+        "frequency": 118.6
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "04-12Z",
+        "frequency": 118.6
+    },
+    {
+        "airport": "Regina Intl",
+        "code": "CYQR",
+        "province": "SK",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": "120.100, 123.800"
+    },
+    {
+        "airport": "Reindeer Lake",
+        "code": "CRL7",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Reston / R.M. Of Pipestone",
+        "code": "CRP2",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Riding Mountain",
+        "code": "CRM2",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rigolet",
+        "code": "CCZ2",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Rigolet",
+        "code": "CCZ2",
+        "province": "NL",
+        "comm": "TML",
+        "transmitter": "Goose Bay",
+        "timings": "11-03Z‡ Mon-Sat O/T Gander Ctr",
+        "frequency": "119.500, 267.100, 257T"
+    },
+    {
+        "airport": "Riverton",
+        "code": "CKG2",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Roblin",
+        "code": "CKB7",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rockglen",
+        "code": "CKC7",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
