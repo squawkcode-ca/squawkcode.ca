@@ -10753,5 +10753,149 @@
         "transmitter": "Winnipeg Tml West",
         "timings": "",
         "frequency": 121
+    },
+    {
+        "airport": "Winterland",
+        "code": "CCC2",
+        "province": "NL",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wollaston Lake",
+        "code": "CZWL",
+        "province": "SK",
+        "comm": "DRCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Wollaston Lake",
+        "code": "CZWL",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Wollaston Lake",
+        "code": "CZWL",
+        "province": "SK",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.075
+    },
+    {
+        "airport": "Woodland / Kendall Farm",
+        "code": "CWL4",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Woodstock",
+        "code": "CCD3",
+        "province": "NB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Wrong Lake Airport",
+        "code": "CJG4",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Wynyard / W.B. Needham Field",
+        "code": "CYYO",
+        "province": "SK",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "York Landing",
+        "code": "CZAC",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Yorkton Regional",
+        "code": "CYQV",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "RAAS Regina rdo",
+        "timings": "12-04Z",
+        "frequency": "119.650, 296.600"
+    },
+    {
+        "airport": "Yorkton Regional",
+        "code": "CYQV",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Yorkton Regional",
+        "code": "CYQV",
+        "province": "SK",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Yorkton Regional",
+        "code": "CYQV",
+        "province": "SK",
+        "comm": "MF",
+        "transmitter": "Regina rdo",
+        "timings": "12-04Z O/T tfc",
+        "frequency": "119.650, 296.600"
+    },
+    {
+        "airport": "Yorkton Regional",
+        "code": "CYQV",
+        "province": "SK",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 132.525
+    },
+    {
+        "airport": "Yorkton Regional",
+        "code": "CYQV",
+        "province": "SK",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.725
+    },
+    {
+        "airport": "Zhoda",
+        "code": "CKA4",
+        "province": "MB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
