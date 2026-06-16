@@ -10897,5 +10897,212 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Ajax (Pr Ajax)",
+        "code": "CAJ5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Akulivik",
+        "code": "CYKO",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Akulivik",
+        "code": "CYKO",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Alexandria",
+        "code": "CNS4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Allan Park",
+        "code": "CAP2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Alma",
+        "code": "CYTF",
+        "province": "QC",
+        "comm": "CLNC DEL",
+        "transmitter": "Bagotville Tml",
+        "timings": "",
+        "frequency": "127.200, 227.600"
+    },
+    {
+        "airport": "Alma",
+        "code": "CYTF",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "1330-2030Z‡ Mon-Fri O/T tfc",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Alma",
+        "code": "CYTF",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "1330-2030Z‡ Mon-Fri O/T tfc",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Alma",
+        "code": "CYTF",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Bagotville",
+        "timings": "",
+        "frequency": "127.200, 227.600"
+    },
+    {
+        "airport": "Alma",
+        "code": "CYTF",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "Bagotville Tml",
+        "timings": "",
+        "frequency": 121.2
+    },
+    {
+        "airport": "Alma",
+        "code": "CYTF",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "Amos / Magny",
+        "code": "CYEY",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "11-23Z Mon-Fri, 13-23Z‡ Sat-Sun O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Angling Lake / Wapekeka",
+        "code": "CKB6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Arthur (Damascus Field)",
+        "code": "CDF6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Arthur (Peskett Field)",
+        "code": "CPK9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Arthur (Walter's Field)",
+        "code": "CPC3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Attawapiskat",
+        "code": "CYAT",
+        "province": "ON",
+        "comm": "DRCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Attawapiskat",
+        "code": "CYAT",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Attawapiskat",
+        "code": "CYAT",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.775
+    },
+    {
+        "airport": "Atwood / Coghlin",
+        "code": "CAT1",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Aupaluk",
+        "code": "CYLA",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Aupaluk",
+        "code": "CYLA",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Ayr / Eagle Valley Private Airfield",
+        "code": "CAY5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
