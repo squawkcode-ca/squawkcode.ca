@@ -11104,5 +11104,221 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 124.2
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": "125.800, 302.500"
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.000, 384.500"
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "121.700, 275.800"
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "126.200, 236.600, 337.700"
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "127.200, 227.600"
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 121.2
+    },
+    {
+        "airport": "Bagotville",
+        "code": "CYBG",
+        "province": "QC",
+        "comm": "PMSV",
+        "transmitter": "",
+        "timings": "ltd hrs",
+        "frequency": 344.6
+    },
+    {
+        "airport": "Baie-Comeau",
+        "code": "CYBC",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Mont-Joli rdo",
+        "timings": "",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Baie-Comeau",
+        "code": "CYBC",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Mont-Joli rdo",
+        "timings": "",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Baie-Comeau",
+        "code": "CYBC",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Baie-Comeau",
+        "code": "CYBC",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 128.15
+    },
+    {
+        "airport": "Baie-Comeau (Manic 1)",
+        "code": "CSL9",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bala",
+        "code": "CBL8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bala (Medora Lake)",
+        "code": "CME3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Baldwin",
+        "code": "CPB9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Baldwin West",
+        "code": "CBW8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bancroft",
+        "code": "CNW3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Barry's Bay / Madawaska Valley Airpark",
+        "code": "CNZ4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bearskin Lake",
+        "code": "CNE3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Beeton Field",
+        "code": "CBF3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Belleville (Marker Field)",
+        "code": "CNU4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Belwood (Baird Field)",
+        "code": "CBF2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Bethany / Whitetail Valley Farm",
+        "code": "CVF3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
