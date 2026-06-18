@@ -11320,5 +11320,104 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Big Trout Lake",
+        "code": "CYTL",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Big Trout Lake",
+        "code": "CYTL",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Big Trout Lake",
+        "code": "CYTL",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Big Trout Lake",
+        "code": "CYTL",
+        "province": "ON",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 135.15
+    },
+    {
+        "airport": "Big Trout Lake",
+        "code": "CYTL",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "BlackStock / Martyn",
+        "code": "CBM2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Bobcaygeon / Chesher Lakehurst",
+        "code": "CLH5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bonaventure",
+        "code": "CYVB",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Bonaventure",
+        "code": "CYVB",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "11-23Z‡ Sun-Fri, ltd hrs Sat O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Bonaventure",
+        "code": "CYVB",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "",
+        "timings": "11-23Z‡ Sun-Fri, ltd hrs Sat O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Bonaventure",
+        "code": "CYVB",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.05
     }
 ]
