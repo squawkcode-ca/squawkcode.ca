@@ -11419,5 +11419,356 @@
         "transmitter": "",
         "timings": "",
         "frequency": 122.05
+    },
+    {
+        "airport": "Bracebridge (Goltz Farm)",
+        "code": "CBG3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bracebridge (Stone Wall Farm)",
+        "code": "CSW4",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "RAAS Timmins rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Bracebridge (Stone Wall Farm)",
+        "code": "CSW4",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Bracebridge (Stone Wall Farm)",
+        "code": "CSW4",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Bracebridge (Stone Wall Farm)",
+        "code": "CSW4",
+        "province": "ON",
+        "comm": "MF",
+        "transmitter": "Timmins rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Bracebridge (Tinkham Field)",
+        "code": "CTA6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bracebridge West",
+        "code": "CWB2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Bradford",
+        "code": "CPM7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Brechin / Ronan Aircraft",
+        "code": "CDU7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.95
+    },
+    {
+        "airport": "Bromont (Roland Desourdy)",
+        "code": "CZBM",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 122.15
+    },
+    {
+        "airport": "Bromont (Roland Desourdy)",
+        "code": "CZBM",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 122.15
+    },
+    {
+        "airport": "Bromont (Roland Desourdy)",
+        "code": "CZBM",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Bruce Mines / Kerr Field",
+        "code": "CBM3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Brussels (Armstrong Field)",
+        "code": "CPD4",
+        "province": "ON",
+        "comm": "No frequency assigned",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "-"
+    },
+    {
+        "airport": "Camden East",
+        "code": "CCE6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Camden East / Varty Lake",
+        "code": "CVL3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Campbellville (Bellshill Airpark)",
+        "code": "CMB5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Carey Lake",
+        "code": "CNX3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Carignan (Bouthillier)",
+        "code": "CRG3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Carignan (Bouthillier)",
+        "code": "CRG3",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": 134.15
+    },
+    {
+        "airport": "Carleton Place",
+        "code": "CNR6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Carnarvon / Whistlewing",
+        "code": "CRV3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Casey (Camp De Base)",
+        "code": "SCQ4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cat Lake",
+        "code": "CYAC",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Causapscal",
+        "code": "CTF3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cayuga (Bruce Field)",
+        "code": "CCG5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.775
+    },
+    {
+        "airport": "Cayuga East",
+        "code": "CAF2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.775
+    },
+    {
+        "airport": "Centralia (Essery Field)",
+        "code": "CES5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Charlevoix",
+        "code": "CYML",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Charlevoix",
+        "code": "CYML",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Chevery",
+        "code": "CYHR",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Chevery",
+        "code": "CYHR",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Val d'Or rdo",
+        "timings": "11-01Z‡",
+        "frequency": 122
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Val d'Or rdo",
+        "timings": "11-01Z‡ O/T tfc",
+        "frequency": 122
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 127.3
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 126.25
+    },
+    {
+        "airport": "Chibougamau / Chapais",
+        "code": "CYMT",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 128.75
     }
 ]
