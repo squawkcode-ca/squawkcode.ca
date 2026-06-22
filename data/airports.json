@@ -11770,5 +11770,230 @@
         "transmitter": "French",
         "timings": "",
         "frequency": 128.75
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 134.8
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 124.95
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "CLNC DEL",
+        "transmitter": "Bagotville Tml 888-813-8508",
+        "timings": "",
+        "frequency": ""
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "St-Honore",
+        "timings": "1300-0130Z‡; 13-03Z‡ Mon-Fri 1300-0130Z‡ Sat-Sun Oct 15-Nov 16 and Feb 15-Mar 2",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "St-Honore",
+        "timings": "1300-0130Z‡; 13-03Z‡ Mon-Fri 1300-0130Z‡ Sat-Sun Oct 15-Nov 16 and Feb 15-Mar 2",
+        "frequency": 118.4
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "0130-1300Z‡; 03-13Z‡ Mon-Fri 0130-1300Z‡ Sat-Sun Oct 15-Nov 16 and Feb 15-Mar 2",
+        "frequency": 118.4
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Bagotville",
+        "timings": "",
+        "frequency": "127.200, 227.600"
+    },
+    {
+        "airport": "Chicoutimi / St-Honore",
+        "code": "CYRC",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "Bagotville Tml",
+        "timings": "",
+        "frequency": 121.2
+    },
+    {
+        "airport": "Chisasibi",
+        "code": "CSU2",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo (La Grande)",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Chisasibi",
+        "code": "CSU2",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Chisasibi",
+        "code": "CSU2",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Churchill / Truway Field",
+        "code": "CKS3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Chute-St-Philippe",
+        "code": "CCP3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cobden / Bruce McPhail Mem",
+        "code": "CPF4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Combermere / Bonnie Brae Airfield",
+        "code": "CMB8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Conestogo / Largo Woods Field",
+        "code": "CLW6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Conn",
+        "code": "CCN4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Cookstown",
+        "code": "CCT2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cookstown / Kirby Field",
+        "code": "CKF8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cookstown / Platinum Park",
+        "code": "CRJ2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cookstown / Tally-Ho Field",
+        "code": "CTH8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Copper Falls",
+        "code": "COP5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cottam",
+        "code": "CRB2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Coulson / Norwood Dale Field",
+        "code": "CAD9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Creemore",
+        "code": "CCR9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.85
     }
 ]
