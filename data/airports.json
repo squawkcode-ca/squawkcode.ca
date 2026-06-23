@@ -11995,5 +11995,149 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 122.85
+    },
+    {
+        "airport": "Danville",
+        "code": "CDN2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Deep River / Rolph",
+        "code": "CPH2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Deer Lake",
+        "code": "CYVZ",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Detour Lake",
+        "code": "CDT9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.95
+    },
+    {
+        "airport": "Detour Lake",
+        "code": "CDT9",
+        "province": "ON",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Drummondville",
+        "code": "CSC3",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Drummondville",
+        "code": "CSC3",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Dundalk (Tripp Field)",
+        "code": "CTF4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Dungannon",
+        "code": "CDG3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Dunrobin / Django Field",
+        "code": "CDJ8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Dunrobin / Parti Field",
+        "code": "CPF3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Dunsford",
+        "code": "CDU5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Du Rocher-Perce (Pabok)",
+        "code": "CTG3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Du Rocher-Perce (Pabok)",
+        "code": "CTG3",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Dwight",
+        "code": "CNF8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "East Linton (Kerr Field)",
+        "code": "CEL3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
     }
 ]
