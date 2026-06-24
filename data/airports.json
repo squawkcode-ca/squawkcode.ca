@@ -12139,5 +12139,239 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123
+    },
+    {
+        "airport": "Eastmain River",
+        "code": "CZEM",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Eastmain River",
+        "code": "CZEM",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "14-21Z‡ Mon-Fri; 15-20Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Eleonore",
+        "code": "CEL8",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Eleonore",
+        "code": "CEL8",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Emsdale",
+        "code": "CNA4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Englehart (Dave's Field)",
+        "code": "CDF3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Essex",
+        "code": "CNE9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Essex / Billing Airstrip",
+        "code": "CEB8",
+        "province": "ON",
+        "comm": "No frequency assigned",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "-"
+    },
+    {
+        "airport": "Ethel",
+        "code": "CPD2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Farnham",
+        "code": "CSN7",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fergus (Holyoake Airfield)",
+        "code": "CPY9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fergus (Juergensen Field)",
+        "code": "CPG7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Fergus (Vodarek Field)",
+        "code": "CVF2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Flamboro Centre",
+        "code": "CFC8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Flesherton (Smithorrs Field)",
+        "code": "CFL4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fontanges",
+        "code": "CTU2",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-21Z‡ Thu only O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Fontanges",
+        "code": "CTU2",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Fordwich",
+        "code": "CPH9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Forestville",
+        "code": "CYFE",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Forestville",
+        "code": "CYFE",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Fort Albany",
+        "code": "CYFA",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Fort Hope",
+        "code": "CYFH",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Fort Severn",
+        "code": "CYER",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Fort Severn",
+        "code": "CYER",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.55
+    },
+    {
+        "airport": "French River / Alban",
+        "code": "CFR5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Fullarton / Munro",
+        "code": "CMR3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
     }
 ]
