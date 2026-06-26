@@ -12481,5 +12481,284 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Havre St-Pierre",
+        "code": "CYGV",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Madeleine rdo",
+        "timings": "11-03Z‡",
+        "frequency": 122
+    },
+    {
+        "airport": "Havre St-Pierre",
+        "code": "CYGV",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Madeleine rdo",
+        "timings": "11-03Z‡ O/T tfc",
+        "frequency": 122
+    },
+    {
+        "airport": "Havre St-Pierre",
+        "code": "CYGV",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 125.95
+    },
+    {
+        "airport": "Havre St-Pierre",
+        "code": "CYGV",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 128.3
+    },
+    {
+        "airport": "Hawkesbury",
+        "code": "CNV4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Hawkesbury (East)",
+        "code": "CPG5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Heathcote / Wilkinson Field",
+        "code": "CWF4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.85
+    },
+    {
+        "airport": "Highgate",
+        "code": "CNA2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ile Aux Coudres",
+        "code": "CTA3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Iles-De-La-Madeleine",
+        "code": "CYGR",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "Madeleine rdo",
+        "timings": "1000-0330Z‡",
+        "frequency": 123.15
+    },
+    {
+        "airport": "Iles-De-La-Madeleine",
+        "code": "CYGR",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Mont-Joli rdo",
+        "timings": "0330-1000Z‡",
+        "frequency": 123.15
+    },
+    {
+        "airport": "Iles-De-La-Madeleine",
+        "code": "CYGR",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Iles-De-La-Madeleine",
+        "code": "CYGR",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Iles-De-La-Madeleine",
+        "code": "CYGR",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "1000-0330Z‡ O/T Mont-Joli",
+        "frequency": 123.15
+    },
+    {
+        "airport": "Iles-De-La-Madeleine",
+        "code": "CYGR",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Moncton Ctr (Grindstone)",
+        "timings": "",
+        "frequency": 134.35
+    },
+    {
+        "airport": "Innerkip",
+        "code": "CNR2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 119.15
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "UNICOM",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 125.3
+    },
+    {
+        "airport": "Inukjuak",
+        "code": "CYPH",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 127.7
+    },
+    {
+        "airport": "Iona Station (Bobier Strip)",
+        "code": "COS2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Isle-Aux-Grues",
+        "code": "CSH2",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Montmagny Unicom",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Ivujivik",
+        "code": "CYIK",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Ivujivik",
+        "code": "CYIK",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Joliette",
+        "code": "CSG3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Joliette / St-Thomas",
+        "code": "CLO2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Kakabeka Falls",
+        "code": "CKG8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Kanawata Aeroparc",
+        "code": "CSJ2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
     }
 ]
