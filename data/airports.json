@@ -12760,5 +12760,302 @@
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.8
+    },
+    {
+        "airport": "Kangiqsualujjuaq (Georges River)",
+        "code": "CYLU",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kangiqsualujjuaq (Georges River)",
+        "code": "CYLU",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kangiqsujuaq (Wakeham Bay)",
+        "code": "CYKG",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Kangiqsujuaq (Wakeham Bay)",
+        "code": "CYKG",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Kangiqsujuaq (Wakeham Bay)",
+        "code": "CYKG",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kangiqsujuaq (Wakeham Bay)",
+        "code": "CYKG",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kangirsuk",
+        "code": "CYAS",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Kangirsuk",
+        "code": "CYAS",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kangirsuk",
+        "code": "CYAS",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Kars / Rideau Valley Air Park",
+        "code": "CPL3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Kasabonika",
+        "code": "CYAQ",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kashechewan",
+        "code": "CZKE",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Kattiniq / Donaldson",
+        "code": "CTP9",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "",
+        "timings": "1230-2300Z‡ Mon-Fri O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Keene / Elmhirst's Resort",
+        "code": "CPS2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Keewaywin",
+        "code": "CPV8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Kincardine / Shepherd's Landing",
+        "code": "CKS9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Kingfisher Lake",
+        "code": "CNM5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kingston / Riverland",
+        "code": "CRL9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kirkfield / Balsam Lake",
+        "code": "CKD8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kirkfield / Dimkovski Airpark",
+        "code": "CDM3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kirkfield / Palestine",
+        "code": "CKP4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kleinburg (Tavares Field)",
+        "code": "CTV4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kuujjuaq",
+        "code": "CYVP",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "122.300, 296.600"
+    },
+    {
+        "airport": "Kuujjuaq",
+        "code": "CYVP",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Kuujjuaq",
+        "code": "CYVP",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Kuujjuaq",
+        "code": "CYVP",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Kuujjuaq",
+        "code": "CYVP",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 135.1
+    },
+    {
+        "airport": "Kuujjuarapik",
+        "code": "CYGW",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS La Grande rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Kuujjuarapik",
+        "code": "CYGW",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": "123.475, 5680"
+    },
+    {
+        "airport": "Kuujjuarapik",
+        "code": "CYGW",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Kuujjuarapik",
+        "code": "CYGW",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "La Grande rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Kuujjuarapik",
+        "code": "CYGW",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 124.35
+    },
+    {
+        "airport": "Kuujjuarapik",
+        "code": "CYGW",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 125.15
     }
 ]
