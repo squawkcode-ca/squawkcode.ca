@@ -13057,5 +13057,311 @@
         "transmitter": "French",
         "timings": "",
         "frequency": 125.15
+    },
+    {
+        "airport": "La Agile (Mascouche)",
+        "code": "CSA2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lac-A-La-Tortue",
+        "code": "CSL3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Lac Etchemin",
+        "code": "CSC5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Lachute",
+        "code": "CSE4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Lachute",
+        "code": "CSE4",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "124.650, 268.300"
+    },
+    {
+        "airport": "Lac-Saint-Jean",
+        "code": "CYDO",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.7
+    },
+    {
+        "airport": "La Grand Riviere",
+        "code": "CYGL",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "La Grande",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "La Grand Riviere",
+        "code": "CYGL",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "La Grand Riviere",
+        "code": "CYGL",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "La Grand Riviere",
+        "code": "CYGL",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "La Grand Riviere",
+        "code": "CYGL",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 132.1
+    },
+    {
+        "airport": "La Grande-3",
+        "code": "CYAD",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "La Grande-3",
+        "code": "CYAD",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "La Grande-4",
+        "code": "CYAH",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "La Grande-4",
+        "code": "CYAH",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "La Grande-4",
+        "code": "CYAH",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 131.2
+    },
+    {
+        "airport": "La Grande-4",
+        "code": "CYAH",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 118.45
+    },
+    {
+        "airport": "La Grande-4",
+        "code": "CYAH",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 119.65
+    },
+    {
+        "airport": "La Macaza / Mont-Tremblant",
+        "code": "CYFJ",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "La Macaza / Mont-Tremblant",
+        "code": "CYFJ",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 133.9
+    },
+    {
+        "airport": "Lancaster Airpark",
+        "code": "CLA6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lansdowne House",
+        "code": "CYLH",
+        "province": "ON",
+        "comm": "DRCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Lansdowne House",
+        "code": "CYLH",
+        "province": "ON",
+        "comm": "DRCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Lansdowne House",
+        "code": "CYLH",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Lansdowne House",
+        "code": "CYLH",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.4
+    },
+    {
+        "airport": "La Romaine",
+        "code": "CTT5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM French only",
+        "timings": "11-24Z Mon-Fri, 13-16Z, 17-20Z Sun O/T tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "La Sarre",
+        "code": "CSR8",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "La Tabatiere",
+        "code": "CTU5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "La Tuque",
+        "code": "CYLQ",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "La Tuque",
+        "code": "CYLQ",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "La Tuque",
+        "code": "CYLQ",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "13-22Z‡ O/T tfc",
+        "frequency": 122.325
+    },
+    {
+        "airport": "La Tuque",
+        "code": "CYLQ",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 134.5
+    },
+    {
+        "airport": "La Tuque",
+        "code": "CYLQ",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Laurel / Whittington",
+        "code": "CLW3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
