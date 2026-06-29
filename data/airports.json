@@ -13363,5 +13363,275 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Lebel-Sur-Quevillon",
+        "code": "CSH4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Les Bergeronnes",
+        "code": "CTH3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "London / Chapeskie Field",
+        "code": "CLC2",
+        "province": "ON",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "1120-0345Z‡",
+        "frequency": "119.400, 125.650"
+    },
+    {
+        "airport": "London / Chapeskie Field",
+        "code": "CLC2",
+        "province": "ON",
+        "comm": "MF",
+        "transmitter": "Sudbury rdo",
+        "timings": "0345-1120Z‡",
+        "frequency": 119.4
+    },
+    {
+        "airport": "London / Pioneer Airpark",
+        "code": "CPN8",
+        "province": "ON",
+        "comm": "MF",
+        "transmitter": "Sudbury rdo",
+        "timings": "0345-1120Z‡",
+        "frequency": 119.4
+    },
+    {
+        "airport": "London / Watson Airfield",
+        "code": "CLW4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Louiseville",
+        "code": "CSJ4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Lourdes-De-Blanc-Sablon",
+        "code": "CYBX",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Mont-Joli rdo",
+        "timings": "",
+        "frequency": 122
+    },
+    {
+        "airport": "Lourdes-De-Blanc-Sablon",
+        "code": "CYBX",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Mont-Joli rdo",
+        "timings": "",
+        "frequency": 122
+    },
+    {
+        "airport": "Lourdes-De-Blanc-Sablon",
+        "code": "CYBX",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 128.15
+    },
+    {
+        "airport": "Lourdes-De-Blanc-Sablon",
+        "code": "CYBX",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 124.35
+    },
+    {
+        "airport": "Lourdes-De-Joliette",
+        "code": "CSE3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Lucan",
+        "code": "CPS4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Manic-5",
+        "code": "CMN5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Maniwaki",
+        "code": "CYMW",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo (Mont-Laurier)",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Maniwaki",
+        "code": "CYMW",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Mansfield",
+        "code": "CPV4",
+        "province": "ON",
+        "comm": "No frequency assigned",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "-"
+    },
+    {
+        "airport": "Matagami",
+        "code": "CYNM",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Matagami",
+        "code": "CYNM",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Matagami",
+        "code": "CYNM",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Matagami",
+        "code": "CYNM",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 127.45
+    },
+    {
+        "airport": "Matagami",
+        "code": "CYNM",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 125.3
+    },
+    {
+        "airport": "Matane / Russell-Burnett",
+        "code": "CYME",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "Matane UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.725
+    },
+    {
+        "airport": "Matane / Russell-Burnett",
+        "code": "CYME",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Matawatchan",
+        "code": "CMW3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Mattawa",
+        "code": "CMA2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Maxville",
+        "code": "CMX2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Maxville (Bourdon Farm)",
+        "code": "CMB7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Melbourne",
+        "code": "CMN2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Miminiska",
+        "code": "CPS5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
     }
 ]
