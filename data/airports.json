@@ -13633,5 +13633,122 @@
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.8
+    },
+    {
+        "airport": "Mont-Joli",
+        "code": "CYYY",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Mont-Joli",
+        "code": "CYYY",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Mont-Joli",
+        "code": "CYYY",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Mont-Joli",
+        "code": "CYYY",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Mont-Joli",
+        "code": "CYYY",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "134.650, 227.200"
+    },
+    {
+        "airport": "Mont-Laurier",
+        "code": "CSD4",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo (Mont-Laurier)",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Mont-Laurier",
+        "code": "CSD4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Mont-Laurier",
+        "code": "CSD4",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 126.575
+    },
+    {
+        "airport": "Mont-Laurier",
+        "code": "CSD4",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 123.425
+    },
+    {
+        "airport": "Montmagny",
+        "code": "CSE5",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "",
+        "timings": "1100-2130Z‡ O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Montreal / Aeroparc Ile Perrot",
+        "code": "CSP6",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": 119.9
+    },
+    {
+        "airport": "Montreal / Aeroparc Ile Perrot",
+        "code": "CSP6",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Montreal / Aeroparc Ile Perrot",
+        "code": "CSP6",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "Montreal Tml",
+        "timings": "",
+        "frequency": 134.15
     }
 ]
