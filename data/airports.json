@@ -13750,5 +13750,455 @@
         "transmitter": "Montreal Tml",
         "timings": "",
         "frequency": 134.15
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Rouyn rdo",
+        "timings": "0500-1045Z‡ Tue-Sat, 0300-1045Z‡ Sun-Mon Apr-Oct; 0400-1045Z‡Tue-Sat, 0100-1045Z‡ Sun-Mon Nov-Mar",
+        "frequency": 118.4
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "1045-0500Z‡ Mon-Fri, 1045-0300Z‡ Sat-Sun Apr-Oct; 1045-0400Z‡Mon-Fi, 1045-0100Z‡ Sat-Sun Nov-Mar",
+        "frequency": 124.9
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "1045-0500Z‡ Mon-Fri, 1045-0300Z‡ Sat-Sun Apr-Oct; 1045-0400Z‡Mon-Fi, 1045-0100Z‡ Sat-Sun Nov-Mar",
+        "frequency": 124.1
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "St-Hubert",
+        "timings": "1045-0500Z‡ Mon-Fri, 1045-0300Z‡ Sat-Sun Apr-Oct; 1045-0400Z‡Mon-Fi, 1045-0100Z‡ Sat-Sun Nov-Mar",
+        "frequency": 126.4
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "St-Hubert (VFR ARR North)",
+        "timings": "1045-0500Z‡ Mon-Fri, 1045-0300Z‡ Sat-Sun Apr-Oct; 1045-0400Z‡Mon-Fi, 1045-0100Z‡ Sat-Sun Nov-Mar",
+        "frequency": 118.4
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "St-Hubert (VFR ARR South & East)",
+        "timings": "1045-0500Z‡ Mon-Fri, 1045-0300Z‡ Sat-Sun Apr-Oct; 1045-0400Z‡Mon-Fi, 1045-0100Z‡ Sat-Sun Nov-Mar",
+        "frequency": 121.3
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Rouyn rdo",
+        "timings": "0500-1045Z‡ Tue-Sat, 0300-1045Z‡ Sun-Mon Apr-Oct; 0400-1045Z‡Tue-Sat, 0100-1045Z‡ Sun-Mon Nov-Mar",
+        "frequency": 118.4
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "ARR",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "125.150, 268.300"
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "DEP",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "125.150, 268.300"
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "VFR ADF",
+        "transmitter": "Montreal Tml",
+        "timings": "",
+        "frequency": 125.15
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "Mil",
+        "transmitter": "438 Sqn Ops",
+        "timings": "",
+        "frequency": "322.100, 135.900"
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "0500-1045Z‡ Tue-Sat, 0300-1045Z‡ Sun-Mon Apr-Oct; 0400-1045Z‡Tue-Sat, 0100-1045Z‡ Sun-Mon Nov-Mar",
+        "frequency": 124.9
+    },
+    {
+        "airport": "Montreal / Met (Aeroport Metropolitain De Montreal)",
+        "code": "CYHU",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "0500-1045Z‡ Tue-Sat, 0300-1045Z‡ Sun-Mon Apr-Oct; 0400-1045Z‡Tue-Sat, 0100-1045Z‡ Sun-Mon Nov-Mar",
+        "frequency": 124.1
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "Mirabel",
+        "timings": "03-11Z‡",
+        "frequency": 119.1
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 125.7
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 126.1
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "APRON ADV",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.4
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "11-03Z‡",
+        "frequency": 121.8
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "GND ADV",
+        "transmitter": "",
+        "timings": "03-11Z‡",
+        "frequency": 121.8
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "11-03Z‡",
+        "frequency": 119.1
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "03-11Z‡",
+        "frequency": 119.1
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "ARR",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "124.650, 268.300"
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "DEP",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "124.650, 268.300"
+    },
+    {
+        "airport": "Montreal / (Mirabel)",
+        "code": "CYMX",
+        "province": "QC",
+        "comm": "VFR ADF",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": 134.15
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 133.7
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 127.5
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "CLNC DEL",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": 125.6
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "APRON",
+        "transmitter": "Montreal (West)",
+        "timings": "",
+        "frequency": 122.275
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "APRON",
+        "transmitter": "Montreal (East)",
+        "timings": "",
+        "frequency": 122.075
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "Montreal (West)",
+        "timings": "",
+        "frequency": "121.000, 275.800"
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "Montreal (East)",
+        "timings": "",
+        "frequency": "121.900, 275.800"
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "119.300, 119.900, 124.300, 267.100"
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "ARR",
+        "transmitter": "Montreal Tml",
+        "timings": "",
+        "frequency": "118.900, 126.900, 132.850, 268.300"
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "DEP",
+        "transmitter": "Montreal Tml",
+        "timings": "",
+        "frequency": "120.420, 124.650, 268.300"
+    },
+    {
+        "airport": "Montreal / Pierre Elliott Trudeau Intl",
+        "code": "CYUL",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "Montreal Tml",
+        "timings": "",
+        "frequency": 134.15
+    },
+    {
+        "airport": "Montral / St-Lazare",
+        "code": "CST3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Mont-Tremblant / St-Jovite",
+        "code": "CSZ3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Mount Brydges / Warren Field",
+        "code": "CWF3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Muskrat Dam",
+        "code": "CZMD",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Muskrat Dam",
+        "code": "CZMD",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.45
+    },
+    {
+        "airport": "Nairn (Triple Nickel)",
+        "code": "CTN8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Madeleine rdo",
+        "timings": "13-23Z‡",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.85
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Madeleine rdo",
+        "timings": "13-23Z‡ O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 134.825
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 126.25
+    },
+    {
+        "airport": "Natashquan",
+        "code": "CYNA",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 125.3
     }
 ]
