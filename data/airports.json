@@ -14200,5 +14200,365 @@
         "transmitter": "French",
         "timings": "",
         "frequency": 125.3
+    },
+    {
+        "airport": "Nemiscau",
+        "code": "CYHH",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Nemiscau",
+        "code": "CYHH",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Nemiscau",
+        "code": "CYHH",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 131.7
+    },
+    {
+        "airport": "Newburgh",
+        "code": "CNB6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Newtonville / Steeves Field",
+        "code": "CNT9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Nixon",
+        "code": "CNX8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Norland / Trotter",
+        "code": "CNR5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "North Spirit Lake",
+        "code": "CKQ3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Ogoki Post",
+        "code": "CYKP",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ogoki Post",
+        "code": "CYKP",
+        "province": "ON",
+        "comm": "PAL",
+        "transmitter": "Winnipeg Ctr",
+        "timings": "",
+        "frequency": 135.475
+    },
+    {
+        "airport": "Ogoki Post",
+        "code": "CYKP",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.125
+    },
+    {
+        "airport": "Omemee",
+        "code": "CME2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Opapimiskan Lake",
+        "code": "CKM8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Orangeville / Castlewood Field",
+        "code": "CPV2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Orangeville / Laurel",
+        "code": "COL2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Orono Field",
+        "code": "COR3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Orono / Hawkefield",
+        "code": "CHF4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ottawa / Casselman (Shea Field)",
+        "code": "CSF7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ottawa / Embrun",
+        "code": "CPR2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "Embrun tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ottawa / Gatineau",
+        "code": "CYND",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "Gatineau",
+        "timings": "1130-0215Z‡",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Ottawa / Gatineau",
+        "code": "CYND",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Ottawa / Gatineau",
+        "code": "CYND",
+        "province": "QC",
+        "comm": "GND ADV",
+        "transmitter": "",
+        "timings": "1130-0215Z‡",
+        "frequency": 122.6
+    },
+    {
+        "airport": "Ottawa / Gatineau",
+        "code": "CYND",
+        "province": "QC",
+        "comm": "MF/ATF",
+        "transmitter": "Gatineau rdo",
+        "timings": "1130-0215Z‡ O/T ATF",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Ottawa / Gatineau",
+        "code": "CYND",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Ottawa",
+        "timings": "",
+        "frequency": "127.700, 128.175"
+    },
+    {
+        "airport": "Ottawa / Gatineau",
+        "code": "CYND",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "Ottawa Tml",
+        "timings": "",
+        "frequency": 127.7
+    },
+    {
+        "airport": "Parent",
+        "code": "CYPP",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Parkhill (Yellow Gold)",
+        "code": "CYG2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Peawanuck",
+        "code": "CYPO",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Peawanuck",
+        "code": "CYPO",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Peawanuck",
+        "code": "CYPO",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Peawanuck",
+        "code": "CYPO",
+        "province": "ON",
+        "comm": "PAL",
+        "transmitter": "Winnigep Ctr",
+        "timings": "",
+        "frequency": 133.95
+    },
+    {
+        "airport": "Peawanuck",
+        "code": "CYPO",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.525
+    },
+    {
+        "airport": "Petrolia / Butler Airfield",
+        "code": "CBA7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Picton (Greenbush)",
+        "code": "CGB3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Pikangikum",
+        "code": "CYPM",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Pintendre",
+        "code": "CPT9",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Plattsville (Edward's Air Base)",
+        "code": "CLB2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Plevna / Tomvale",
+        "code": "CNA9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Poplar Hill",
+        "code": "CPV7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Port Carling",
+        "code": "CPC2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
     }
 ]
