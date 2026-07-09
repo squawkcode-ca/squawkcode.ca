@@ -14560,5 +14560,113 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 122.8
+    },
+    {
+        "airport": "Port Colborne",
+        "code": "CPE5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Port Colborne",
+        "code": "CPE5",
+        "province": "ON",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Port Elgin",
+        "code": "CNL4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Port Hope (Millson Field)",
+        "code": "CMF4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Port Hope (Peter's Field)",
+        "code": "CPH3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Port-Menier",
+        "code": "CYPN",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "11-23Z‡ Sun-Fri, ltd hrs Sat French only O/T corridor tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Port-Menier",
+        "code": "CYPN",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Port Perry / Hoskin",
+        "code": "CPP3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Port Perry / Utica Field",
+        "code": "CUT2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Poste Montagnais (Mile 134)",
+        "code": "CSF3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "12-22Z‡ O/T tfc",
+        "frequency": 131.7
+    },
+    {
+        "airport": "Poste Montagnais (Mile 134)",
+        "code": "CSF3",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Pourvoirie Mirage",
+        "code": "CPM3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.85
     }
 ]
