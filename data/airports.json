@@ -14668,5 +14668,302 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 122.85
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 132.275
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "UNICOM",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 128.65
+    },
+    {
+        "airport": "Puvirnituq",
+        "code": "CYPX",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 120.45
+    },
+    {
+        "airport": "Quaqtaq",
+        "code": "CYHA",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Quaqtaq",
+        "code": "CYHA",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 128.25
+    },
+    {
+        "airport": "Quaqtaq",
+        "code": "CYHA",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 134.6
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 128.3
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "Quebec",
+        "timings": "",
+        "frequency": "121.900, 250.000"
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "Quebec",
+        "timings": "",
+        "frequency": "118.650, 236.600"
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Quebec (VFR)",
+        "timings": "",
+        "frequency": "124.000, 322.800"
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Quebec (IFR)",
+        "timings": "",
+        "frequency": "127.850, 322.800"
+    },
+    {
+        "airport": "Quebec / Jean Lesage Intl",
+        "code": "CYQB",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "135.025, 270.900"
+    },
+    {
+        "airport": "Quebec / Neuville",
+        "code": "CNV9",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Quebec / Neuville",
+        "code": "CNV9",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "Quebec",
+        "timings": "",
+        "frequency": "118.650, 236.600"
+    },
+    {
+        "airport": "Quebec / Neuville",
+        "code": "CNV9",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Quebec",
+        "timings": "",
+        "frequency": 124
+    },
+    {
+        "airport": "Quebec / Neuville",
+        "code": "CNV9",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Quebec (VFR)",
+        "timings": "",
+        "frequency": 127.85
+    },
+    {
+        "airport": "Quebec / Neuville",
+        "code": "CNV9",
+        "province": "QC",
+        "comm": "TML",
+        "transmitter": "Quebec (IFR)",
+        "timings": "",
+        "frequency": 322.8
+    },
+    {
+        "airport": "Rendersville / Aery",
+        "code": "CRA3",
+        "province": "ON",
+        "comm": "TWR",
+        "transmitter": "Trenton",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Reservoir Gouin / Pourvoirie Escapade",
+        "code": "CGN2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.75
+    },
+    {
+        "airport": "Rimouski",
+        "code": "CYXK",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "Mont-Joli",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Rimouski",
+        "code": "CYXK",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Mont-Joli rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Riviere-Aux-Saumons",
+        "code": "CTH7",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Riviere Bonnard",
+        "code": "CRB4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Riviere-Du-Loup",
+        "code": "CYRI",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.775
+    },
+    {
+        "airport": "Riviere-Du-Loup",
+        "code": "CYRI",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "125.100, 299.600"
+    },
+    {
+        "airport": "Riviere-Du-Loup",
+        "code": "CYRI",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.025
     }
 ]
