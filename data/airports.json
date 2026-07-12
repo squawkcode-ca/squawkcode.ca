@@ -14965,5 +14965,608 @@
         "transmitter": "",
         "timings": "",
         "frequency": 122.025
+    },
+    {
+        "airport": "Roberval",
+        "code": "CYRJ",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Rouyn rdo",
+        "timings": "11-03Z‡ O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Roberval",
+        "code": "CYRJ",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": "123.550, 5680"
+    },
+    {
+        "airport": "Roberval",
+        "code": "CYRJ",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Roberval",
+        "code": "CYRJ",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "Rouyn rdo",
+        "timings": "11-03Z‡ O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Rockton",
+        "code": "CPT3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.725
+    },
+    {
+        "airport": "Rodney / Pinder Airfield",
+        "code": "CPN2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rosseau",
+        "code": "CRS4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Rougemont",
+        "code": "CTY5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Round Lake (Meagamow Lake)",
+        "code": "CZRJ",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "Round Lake tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rouyn-Noranda",
+        "code": "CYUY",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "Rouyn",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Rouyn-Noranda",
+        "code": "CYUY",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Rouyn-Noranda",
+        "code": "CYUY",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Rouyn-Noranda",
+        "code": "CYUY",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Sachigo Lake",
+        "code": "CZPB",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Saintfield / Stone",
+        "code": "CST4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Andre-Avellin",
+        "code": "CAA2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.75
+    },
+    {
+        "airport": "Ste-Anne-Des-Monts",
+        "code": "CYSZ",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Ste-Anne-Des-Monts",
+        "code": "CYSZ",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.025
+    },
+    {
+        "airport": "St-Apollinaire (Airpro)",
+        "code": "CAA4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Augustin",
+        "code": "CYIF",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 119.575
+    },
+    {
+        "airport": "St-Augustin",
+        "code": "CYIF",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "St-Augustin",
+        "code": "CYIF",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "11-23Z Mon-Fri, 13-19Z Sun O/T tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "St-Basile (Marcotte)",
+        "code": "CTR6",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Bruno-De-Guigues",
+        "code": "CTA4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Cuthbert (Ulm Quebec)",
+        "code": "CCU2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "St-Dominique",
+        "code": "CSS4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.475
+    },
+    {
+        "airport": "St-Donat",
+        "code": "CSY4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Esprit",
+        "code": "CES2",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Esprit",
+        "code": "CES2",
+        "province": "QC",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 129.85
+    },
+    {
+        "airport": "St-Ferdinand",
+        "code": "CSH5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Frederic",
+        "code": "CSZ4",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "St-Frederic",
+        "code": "CSZ4",
+        "province": "QC",
+        "comm": "ARR",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "135.025, 270.900"
+    },
+    {
+        "airport": "St-Frederic",
+        "code": "CSZ4",
+        "province": "QC",
+        "comm": "DEP",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "135.025, 270.900"
+    },
+    {
+        "airport": "St-Georges",
+        "code": "CYSG",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "13-01Z‡ Wed-Sun, 13-23Z‡ Mon-Tue May 1-Sep 30; 14-23Z‡ Sat, 13-23Z‡ Sun-Fri Oct 1-Apr 30 O/T tfc",
+        "frequency": 122.15
+    },
+    {
+        "airport": "St-Georges",
+        "code": "CYSG",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "St-Hyacinthe",
+        "code": "CSU3",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.225
+    },
+    {
+        "airport": "St-Jean",
+        "code": "CYJN",
+        "province": "QC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "1230-0230Z‡ Apr-Oct; 13-02Z‡ Nov-Mar",
+        "frequency": 121.7
+    },
+    {
+        "airport": "St-Jean",
+        "code": "CYJN",
+        "province": "QC",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "1230-0230Z‡ Apr-Oct; 13-02Z‡ Nov-Mar",
+        "frequency": 118.2
+    },
+    {
+        "airport": "St-Jean",
+        "code": "CYJN",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "0230-1230Z‡ Apr-Oct; 02-13Z‡ Nov-Mar",
+        "frequency": 118.2
+    },
+    {
+        "airport": "St-Jean",
+        "code": "CYJN",
+        "province": "QC",
+        "comm": "ARR",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "125.150, 268.300"
+    },
+    {
+        "airport": "St-Jean",
+        "code": "CYJN",
+        "province": "QC",
+        "comm": "DEP",
+        "transmitter": "Montreal",
+        "timings": "",
+        "frequency": "125.150, 268.300"
+    },
+    {
+        "airport": "St-Jean",
+        "code": "CYJN",
+        "province": "QC",
+        "comm": "VFR ADV",
+        "transmitter": "Montreal Tml",
+        "timings": "",
+        "frequency": 125.15
+    },
+    {
+        "airport": "St-Jean Chrysostome",
+        "code": "CSG5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Lambert-De-Lauzon",
+        "code": "CST7",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "St-Loius-De-France",
+        "code": "CSJ5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.35
+    },
+    {
+        "airport": "St-Mathias",
+        "code": "CSP5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Mathias / Grant",
+        "code": "CSX5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Mathieu-De-Beloeil (Gilles Beaudet)",
+        "code": "CSB3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.7
+    },
+    {
+        "airport": "St. Mathieu-De-Laprairie",
+        "code": "CML8",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Michel-Des-Saints",
+        "code": "CSM5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "St-Raymond / Paquel",
+        "code": "CSK5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "St-Victor-De-Beauce",
+        "code": "CSL5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Salaberry-De-Valleyfield",
+        "code": "CSD3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Salluit",
+        "code": "CYZG",
+        "province": "QC",
+        "comm": "DRCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Salluit",
+        "code": "CYZG",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Salluit",
+        "code": "CYZG",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Sandy Lake",
+        "code": "CZSJ",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Sandy Lake",
+        "code": "CZSJ",
+        "province": "ON",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.825
+    },
+    {
+        "airport": "Schefferville",
+        "code": "CYKL",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Schefferville",
+        "code": "CYKL",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Schefferville",
+        "code": "CYKL",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Schefferville",
+        "code": "CYKL",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "132.900, 312.700"
+    },
+    {
+        "airport": "Schefferville",
+        "code": "CYKL",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 124.6
+    },
+    {
+        "airport": "Schefferville",
+        "code": "CYKL",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 127.5
+    },
+    {
+        "airport": "Schomberg (Sloan Field)",
+        "code": "CSV8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Seagrave / North Port",
+        "code": "CNP4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Selkirk",
+        "code": "CJA2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.9
     }
 ]
