@@ -15568,5 +15568,113 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 122.9
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "English",
+        "timings": "1103Z‡",
+        "frequency": 124.8
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "ATIS",
+        "transmitter": "French",
+        "timings": "1103Z‡",
+        "frequency": 134.9
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Sept-Iles",
+        "code": "CYZV",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "135.550, 381.900"
+    },
+    {
+        "airport": "Severn Bridge",
+        "code": "CSB7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Sexsmith / Exeter",
+        "code": "CSX7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Shelburne / Fisherfield",
+        "code": "CNN3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.725
+    },
+    {
+        "airport": "Shelburne / Fisherfield",
+        "code": "CNN3",
+        "province": "ON",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Shelburne (Schaefer Field)",
+        "code": "CSF4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
