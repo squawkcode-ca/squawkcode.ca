@@ -15676,5 +15676,392 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Sherbrooke",
+        "code": "CYSC",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo (Mont-Megantic)",
+        "timings": "",
+        "frequency": 123.25
+    },
+    {
+        "airport": "Sherbrooke",
+        "code": "CYSC",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Sherbrooke",
+        "code": "CYSC",
+        "province": "QC",
+        "comm": "MF/ATF",
+        "transmitter": "UNICOM",
+        "timings": "12-24Z‡ May-Sep, 12-22Z‡ Oct-Apr; O/T tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Sherbrooke",
+        "code": "CYSC",
+        "province": "QC",
+        "comm": "PAl",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 132.55
+    },
+    {
+        "airport": "Sherbrooke",
+        "code": "CYSC",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 126.25
+    },
+    {
+        "airport": "Sherbrooke",
+        "code": "CYSC",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 128.15
+    },
+    {
+        "airport": "Simcoe (Dennison Field)",
+        "code": "CPA4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Slate Falls",
+        "code": "CKD9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Sorel",
+        "code": "CSY3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Southampton",
+        "code": "CPF7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Springvale",
+        "code": "CGV7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Stayner (Clearview Field)",
+        "code": "CLV2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.85
+    },
+    {
+        "airport": "Stoney Point (Le Cunff)",
+        "code": "CRML",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Stouffville",
+        "code": "CBB2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Straffordville / Bushhawk Creek",
+        "code": "CBH5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Sudbury / Coniston",
+        "code": "CSC9",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "FISE London rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Sudbury / Coniston",
+        "code": "CSC9",
+        "province": "ON",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Sudbury / Coniston",
+        "code": "CSC9",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Sudbury / Coniston",
+        "code": "CSC9",
+        "province": "ON",
+        "comm": "PAL",
+        "transmitter": "Toronto Ctr",
+        "timings": "",
+        "frequency": 135.5
+    },
+    {
+        "airport": "Summer Beaver",
+        "code": "CJV7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Sunderland",
+        "code": "CSD7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.9
+    },
+    {
+        "airport": "Tasiujaq",
+        "code": "CYTQ",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo English",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Tasiujaq",
+        "code": "CYTQ",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Teeswater (Dent Field)",
+        "code": "CDF2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Teeswater (Thompson Field)",
+        "code": "CPC6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Tete-A-La-Baleine",
+        "code": "CTB6",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Thetford Mines",
+        "code": "CSM3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Thunder Bay / Eldorado",
+        "code": "CED8",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Thunder Bay (Martin's Landing)",
+        "code": "CML5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Torrance / Walkers Point",
+        "code": "CWP5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Tottenham / Mardon",
+        "code": "CMA6",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Tottenham / Ronan",
+        "code": "CTR3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Tottenham / Volk",
+        "code": "CPM5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Trois-Rivieres",
+        "code": "CYRQ",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "12-01Z‡ ltd hrs O/T tfc",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Trois-Rivieres",
+        "code": "CYRQ",
+        "province": "QC",
+        "comm": "ARR",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 128.225
+    },
+    {
+        "airport": "Trois-Rivieres",
+        "code": "CYRQ",
+        "province": "QC",
+        "comm": "DEP",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 128.225
+    },
+    {
+        "airport": "Trois-Rivieres",
+        "code": "CYRQ",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": 128.225
+    },
+    {
+        "airport": "Trois-Rivieres",
+        "code": "CYRQ",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "",
+        "frequency": 120.275
+    },
+    {
+        "airport": "Trois-Rivieres",
+        "code": "CYRQ",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "",
+        "frequency": 124.825
+    },
+    {
+        "airport": "Ullswater",
+        "code": "CLW2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Umiujaq",
+        "code": "CYMU",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Umiujaq",
+        "code": "CYMU",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "1230-2230Z‡",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Valcourt",
+        "code": "CSQ3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.725
     }
 ]
