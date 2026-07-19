@@ -16063,5 +16063,257 @@
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.725
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "RAAS Rouyn rdo",
+        "timings": "1030-0325Z‡",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "FISE Quebec rdo",
+        "timings": "0325-1030Z‡",
+        "frequency": 122.375
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "1030-0325Z‡ O/T Rouyn rdo",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "PAL",
+        "transmitter": "Montreal Ctr",
+        "timings": "",
+        "frequency": "125.900, 308.300"
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "English",
+        "timings": "0325-1030Z‡",
+        "frequency": 128.15
+    },
+    {
+        "airport": "Val-D'OR",
+        "code": "CYVO",
+        "province": "QC",
+        "comm": "AWOS",
+        "transmitter": "French",
+        "timings": "0325-1030Z‡",
+        "frequency": 120.55
+    },
+    {
+        "airport": "Vermilion Bay",
+        "code": "CKQ7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 130.7
+    },
+    {
+        "airport": "Victoriaville",
+        "code": "CSR3",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "UNICOM (French only)",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Victoriaville",
+        "code": "CSR3",
+        "province": "QC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Walsingham / Ceilidh",
+        "code": "CCL7",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Walter's Falls (Piper Way)",
+        "code": "CWF2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Waskaganish",
+        "code": "CYKQ",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo (English only)",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Waskaganish",
+        "code": "CYKQ",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "14-22Z‡ Sun-Fri",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Webequie",
+        "code": "CYWP",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Wemindji",
+        "code": "CYNC",
+        "province": "QC",
+        "comm": "MF",
+        "transmitter": "aprt rdo (English only)",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Wemindji",
+        "code": "CYNC",
+        "province": "QC",
+        "comm": "APRT RDO",
+        "transmitter": "",
+        "timings": "14-21Z‡ Mon-Fri, 17-22Z‡ Sun",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Westport / Rideau Lakes",
+        "code": "CRL2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Weymontachie",
+        "code": "CSU5",
+        "province": "QC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wheatley (Robinson Motorcycles)",
+        "code": "CRM5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wiarton / Hay Island",
+        "code": "CHA4",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wiebenville",
+        "code": "CXX2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wingham (Inglis Field)",
+        "code": "CWH5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Woodstock (Norm Beckham / Bob Hewitt Field)",
+        "code": "CPR5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Wroxeter / HarkesField",
+        "code": "CHF5",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Wunnumin Lake",
+        "code": "CKL3",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Zephyr / Dillon Field",
+        "code": "CZF2",
+        "province": "ON",
+        "comm": "ATF",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.8
     }
 ]
