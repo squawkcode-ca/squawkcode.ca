@@ -16873,5 +16873,1022 @@
         "transmitter": "",
         "timings": "",
         "frequency": 122.95
+    },
+    {
+        "airport": "Cache Creek",
+        "code": "CAZ5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Calgary / Christiansen Field",
+        "code": "CRS3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Calgary / Okotoks Air Ranch Airport",
+        "code": "CFX2",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Calgary / Okotoks (Rowland Field)",
+        "code": "CRF4",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "14-06Z‡",
+        "frequency": 127.9
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "14-06Z‡",
+        "frequency": 121.8
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Outer",
+        "timings": "16-24Z‡",
+        "frequency": 118.2
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Inner",
+        "timings": "16-24Z‡",
+        "frequency": 120.7
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "16-14Z‡ O/T",
+        "frequency": 118.2
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Calgary / Springbank",
+        "code": "CYBW",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "16-14Z‡",
+        "frequency": 127.9
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.225
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 120.825
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "APRON",
+        "transmitter": "APRON 1: Apron advisory",
+        "timings": "12-07Z‡ O/T",
+        "frequency": 121.3
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "West",
+        "timings": "",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "East",
+        "timings": "",
+        "frequency": 125.35
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "West",
+        "timings": "",
+        "frequency": 118.4
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "East",
+        "timings": "",
+        "frequency": 118.7
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "West",
+        "timings": "",
+        "frequency": 126.525
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "East",
+        "timings": "",
+        "frequency": 125.9
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "123.850, 127.150, 294.9"
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "East",
+        "timings": "",
+        "frequency": "119.800, 255.100"
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "West",
+        "timings": "",
+        "frequency": "124.520, 255.100"
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 119.4
+    },
+    {
+        "airport": "Calgary / YYC Calgary INTL",
+        "code": "CYYC",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 124.525
+    },
+    {
+        "airport": "Calling Lake",
+        "code": "CFK4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Calmar / Wizard Lake",
+        "code": "CWL3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Campbell River",
+        "code": "CYBL",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "Campbell rdo",
+        "timings": "1330-0530Z‡",
+        "frequency": 122
+    },
+    {
+        "airport": "Campbell River",
+        "code": "CYBL",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Campbell River",
+        "code": "CYBL",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Campbell River",
+        "code": "CYBL",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": 128.55
+    },
+    {
+        "airport": "Campbell River",
+        "code": "CYBL",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "Campbell rdo",
+        "timings": "1330-0530Z‡ O/T tfc",
+        "frequency": 122
+    },
+    {
+        "airport": "Campbell River",
+        "code": "CYBL",
+        "province": "BC",
+        "comm": "TML",
+        "transmitter": "Comox",
+        "timings": "",
+        "frequency": "123.700, 227.600"
+    },
+    {
+        "airport": "Camrose",
+        "code": "CEQ3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Camrose",
+        "code": "CEQ3",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Cardston",
+        "code": "CEA6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Carstairs / Bishell's",
+        "code": "CGB2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Castlegar / West Kootenay Regional",
+        "code": "CYCG",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "1330-0130Z (DT 1230-0430Z)",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Castlegar / West Kootenay Regional",
+        "code": "CYCG",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "1330-0130Z (DT 1230-0430Z) O/T tfc",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Castlegar / West Kootenay Regional",
+        "code": "CYCG",
+        "province": "BC",
+        "comm": "MF/ATF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Castlegar / West Kootenay Regional",
+        "code": "CYCG",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": "134.200, 227.300"
+    },
+    {
+        "airport": "Castor",
+        "code": "CER2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cayley / A.J. Flying Ranch",
+        "code": "CAJ7",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Cheadle / Country Lane Farms",
+        "code": "CLF2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Chestermere (Kirby Field)",
+        "code": "CFX8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Chetwynd",
+        "code": "CYCQ",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Chetwynd",
+        "code": "CYCQ",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Chilko Lake (Tsylos Park Lodge)",
+        "code": "CAG3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Chilko Lake (Wilderness Lodge)",
+        "code": "CCL6",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Chilliwack",
+        "code": "CYCW",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Chilliwack",
+        "code": "CYCW",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Chipewyan Lake",
+        "code": "CEG5",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Chipman",
+        "code": "CFU3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Chipman / M.Y. Airfield",
+        "code": "CMY2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Christina Basin",
+        "code": "CFF2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Christina Lake",
+        "code": "CCL3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Christina Lake",
+        "code": "CCL3",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.725
+    },
+    {
+        "airport": "Christina Lake",
+        "code": "CCL3",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.275
+    },
+    {
+        "airport": "Clairmont / Meyer's Airstrip",
+        "code": "CMY3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Claresholm Industrial",
+        "code": "CEJ4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123
+    },
+    {
+        "airport": "Clearwater River",
+        "code": "CFS8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Coaldale (Rednek Air)",
+        "code": "CRD2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cochrane / Arkayla Springs",
+        "code": "CKY8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "118.250, 260.000"
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "120.600, 230.600"
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "121.900, 275.800"
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "ltd hrs O/T Cold Lake advsy",
+        "frequency": "126.200, 226.500, 236.600, 255.700"
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "TML",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "124.500, 322.800"
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.4x, 120.6x, 124.5x, 128.2x 134.1x, 269.6x, 279.8x, 294.6x, 324.3x, 336.0x, 350.5x, 378.5x "
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "124.5x, 322.800"
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "MIL",
+        "transmitter": "Wg Ops",
+        "timings": "",
+        "frequency": 340.2
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "MIL",
+        "transmitter": "Tran svcg",
+        "timings": "",
+        "frequency": 308.7
+    },
+    {
+        "airport": "Cold Lake / Group Captain R.W. McNair",
+        "code": "CYOD",
+        "province": "AB",
+        "comm": "PMSV",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 344.6
+    },
+    {
+        "airport": "Cold Lake / Regional",
+        "code": "CEN5",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Cold Lake",
+        "timings": "",
+        "frequency": 126.2
+    },
+    {
+        "airport": "Cold Lake / Regional",
+        "code": "CEN5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cold Lake / Three Bears Landing",
+        "code": "CTB8",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Cold Lake",
+        "timings": "",
+        "frequency": 126.2
+    },
+    {
+        "airport": "Cold Lake / Three Bears Landing",
+        "code": "CTB8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "",
+        "timings": "tfc",
+        "frequency": 132.2
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "118.600, 282.200"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "127.000, 227.600"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "119.750, 250.300"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "126.200, 358.100, 236.6x"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "TML",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "123.700, 227.600"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "ARR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "123.700, 128.1x, 134.1x, 227.600, 289.4x, 335.9x, 342.9x, 378.5x, 384.5x"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "DEP",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "123.700, 227.600"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "MIL",
+        "transmitter": "Snake Ops",
+        "timings": "",
+        "frequency": "135.900, 363.000"
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "MIL",
+        "transmitter": "Demon Ops",
+        "timings": "",
+        "frequency": 308.6
+    },
+    {
+        "airport": "Comox",
+        "code": "CYQQ",
+        "province": "BC",
+        "comm": "MIL",
+        "transmitter": "Base Ops",
+        "timings": "",
+        "frequency": 316.5
+    },
+    {
+        "airport": "Conklin (Leismer)",
+        "code": "CET2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Conklin (Leismer)",
+        "code": "CET2",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.725
+    },
+    {
+        "airport": "Conklin (Leismer)",
+        "code": "CET2",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "Consort",
+        "code": "CFG3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Coronation",
+        "code": "CYCT",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cortes Island",
+        "code": "CCI9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Courtenay Airpark",
+        "code": "CAH3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Courtenay (Smit Field)",
+        "code": "CCS6",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Coutts / Ross",
+        "code": "CEP4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Cowley",
+        "code": "CYYM",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Cranbrook / Canadian Rockies",
+        "code": "CYXC",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "122.300, 262.700"
+    },
+    {
+        "airport": "Cranbrook / Canadian Rockies",
+        "code": "CYXC",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Cranbrook / Canadian Rockies",
+        "code": "CYXC",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Cranbrook / Canadian Rockies",
+        "code": "CYXC",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Cranbrook / Canadian Rockies",
+        "code": "CYXC",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": 133.6
+    },
+    {
+        "airport": "Creston",
+        "code": "CAJ3",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Creston",
+        "code": "CAJ3",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Creston",
+        "code": "CAJ3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Creston",
+        "code": "CAJ3",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 129.175
+    },
+    {
+        "airport": "Dawson Creek",
+        "code": "CYDQ",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "RAAS Yellowknife rdo",
+        "timings": "1330-0530Z",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Dawson Creek",
+        "code": "CYDQ",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "Yellowknife rdo",
+        "timings": "1330-0530Z O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Dawson Creek",
+        "code": "CYDQ",
+        "province": "BC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.55
     }
 ]
