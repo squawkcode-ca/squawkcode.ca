@@ -17890,5 +17890,185 @@
         "transmitter": "",
         "timings": "",
         "frequency": 128.55
+    },
+    {
+        "airport": "Dawson Creek (Flying L Ranch)",
+        "code": "CDC3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Dease Lake",
+        "code": "CYDL",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Dease Lake",
+        "code": "CYDL",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Dease Lake",
+        "code": "CYDL",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Dease Lake",
+        "code": "CYDL",
+        "province": "BC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.7
+    },
+    {
+        "airport": "Debolt",
+        "code": "CFG4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Del Bonita / Whetstone",
+        "code": "CEQ4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Delburne / Stonehill Farms",
+        "code": "CSF6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Delta / Delta Heritage Air Park",
+        "code": "CAK3",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "Boundary Bay",
+        "timings": "15-07Z‡",
+        "frequency": 125.5
+    },
+    {
+        "airport": "Delta / Delta Heritage Air Park",
+        "code": "CAK3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Denny Island",
+        "code": "CYJQ",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo (Bella Bella (Campbell Is.))",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Denny Island",
+        "code": "CYJQ",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Denny Island",
+        "code": "CYJQ",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "De Winton / South Calgary",
+        "code": "CEH4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Didsbury / Minty Field",
+        "code": "CDM2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Donnelly",
+        "code": "CFM4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Douglas Lake",
+        "code": "CAL3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Dryaton Valley Industrial",
+        "code": "CER3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Drumheller Muni",
+        "code": "CEG4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Drumheller Muni",
+        "code": "CEG4",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
     }
 ]
