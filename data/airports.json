@@ -18070,5 +18070,500 @@
         "transmitter": "",
         "timings": "",
         "frequency": 122.175
+    },
+    {
+        "airport": "Duncan",
+        "code": "CAM3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Eaglesham / Bice Farm",
+        "code": "CBI2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Eaglesham / Codesa South",
+        "code": "CCP7",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Eaglesham / Delta Tango Field",
+        "code": "CDT8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Eaglesham / South",
+        "code": "CGL4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Echo Valley",
+        "code": "CBJ4",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Edmonton / Calmar (Maplelane Farm)",
+        "code": "CMF2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Edmonton / Cooking Lake",
+        "code": "CEZ3",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Edmonton / Cooking Lake",
+        "code": "CEZ3",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Edmonton / Cooking Lake",
+        "code": "CEZ3",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Edmonton / Cooking Lake",
+        "code": "CEZ3",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 127.4
+    },
+    {
+        "airport": "Edmonton / Edmonton Parkland Executive Airport",
+        "code": "CYEP",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Edmonton / Edmonton Parkland Executive Airport",
+        "code": "CYEP",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 127.4
+    },
+    {
+        "airport": "Edmonton / Gartner",
+        "code": "CFQ7",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "Edmonton Intl twr",
+        "timings": "",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 122.375
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.1
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "121.700, 275.600"
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "118.300, 381.200"
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": "120.500, 363.800"
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": "133.650, 363.800"
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Twr",
+        "timings": "",
+        "frequency": "118.300, 119.500"
+    },
+    {
+        "airport": "Edmonton Intl",
+        "code": "CYEG",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 127.4
+    },
+    {
+        "airport": "Edmonton / Josephburg",
+        "code": "CFB6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Edmonton / Josephburg",
+        "code": "CFB6",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Edmonton / Josephburg",
+        "code": "CFB6",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Edmonton / Josephburg",
+        "code": "CFB6",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 127.4
+    },
+    {
+        "airport": "Edmonton / Josephburg",
+        "code": "CFB6",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.35
+    },
+    {
+        "airport": "Edmonton / Morinville (Currie Field)",
+        "code": "CCF6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Edmonton / Morinville (Mike's Field)",
+        "code": "CMN6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Edmonton / Twin Island Airpark",
+        "code": "CEE6",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "15-04Z‡",
+        "frequency": 128.35
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "Villeneuve",
+        "timings": "15-04Z‡",
+        "frequency": 120.8
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Villeneuve",
+        "timings": "15-04Z‡",
+        "frequency": 118.8
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "04-15Z‡",
+        "frequency": 118.8
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 127.4
+    },
+    {
+        "airport": "Edmonton / Villeneuve",
+        "code": "CZVL",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "04-15Z‡",
+        "frequency": 128.35
+    },
+    {
+        "airport": "Edmonton / Villeneuve (Rose Field)",
+        "code": "CRF3",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "Villeneuve Tower",
+        "timings": "15-04Z‡",
+        "frequency": 118.8
+    },
+    {
+        "airport": "Edmonton / Villeneuve (Rose Field)",
+        "code": "CRF3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "04-15Z‡",
+        "frequency": 118.8
+    },
+    {
+        "airport": "Edson",
+        "code": "CYET",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Edson",
+        "code": "CYET",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.75
+    },
+    {
+        "airport": "Elkin Creek Guest Ranch",
+        "code": "CBL9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Elko / Lionel P. Demers Memorial Airpark",
+        "code": "CBE2",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Elk Point",
+        "code": "CEJ6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Empress",
+        "code": "CYEA",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fairmont Hot Springs",
+        "code": "CYCZ",
+        "province": "BC",
+        "comm": "FISE Pacific rdo (invermere)",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Fairmont Hot Springs",
+        "code": "CYCZ",
+        "province": "BC",
+        "comm": "bcst",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fairmont Hot Springs",
+        "code": "CYCZ",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fairmont Hot Springs",
+        "code": "CYCZ",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Fairview",
+        "code": "CEB5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Fairview",
+        "code": "CEB5",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Foremost",
+        "code": "CFD4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
