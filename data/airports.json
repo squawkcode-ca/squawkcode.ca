@@ -18565,5 +18565,464 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Fort Chipewyan",
+        "code": "CYPY",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort Chipewyan",
+        "code": "CYPY",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Fort Chipewyan",
+        "code": "CYPY",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Chipewyan",
+        "code": "CYPY",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128
+    },
+    {
+        "airport": "Fort Grahame",
+        "code": "CBW3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort Langley",
+        "code": "CBQ2",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.725
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo (Fort McMurray)",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.025
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.025
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "A/G",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Fort Mackay / Albian",
+        "code": "CAL4",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.975
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo (Fort McMurray)",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.025
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "A/G",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Fort Mackay / Firebag",
+        "code": "CYFI",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 129.65
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo (Fort McMurray)",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.025
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.025
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "A/G",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Fort Mackay / Horizon",
+        "code": "CYNR",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.075
+    },
+    {
+        "airport": "Fort Macleod",
+        "code": "CEY3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort Macleod (Alcock Farm)",
+        "code": "CFM8",
+        "province": "AB",
+        "comm": "No frequency assigned",
+        "transmitter": "",
+        "timings": "",
+        "frequency": "-"
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "RAAS Yellowknife rdo",
+        "timings": "0545-1315Z‡",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "1315-0545Z‡",
+        "frequency": 128.5
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "McMurray",
+        "timings": "1315-0545Z‡",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "1315-0545Z‡",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "Yellowknife rdo",
+        "timings": "0545-1315Z‡",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.7
+    },
+    {
+        "airport": "Fort McMurray",
+        "code": "CYMM",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "0545-1315Z‡",
+        "frequency": 128.5
+    },
+    {
+        "airport": "Fort McMurray (Legend)",
+        "code": "CLG7",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort McMurray (North Liege)",
+        "code": "CNL2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort McMurray (South Liege)",
+        "code": "CLS3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort Nelson",
+        "code": "CYYE",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.5
+    },
+    {
+        "airport": "Fort Nelson",
+        "code": "CYYE",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Nelson",
+        "code": "CYYE",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Nelson",
+        "code": "CYYE",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "ltd hrs",
+        "frequency": 125.65
+    },
+    {
+        "airport": "Fort Nelson",
+        "code": "CYYE",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 122.5
+    },
+    {
+        "airport": "Fort Nelson",
+        "code": "CYYE",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": "132.870, 134.850"
+    },
+    {
+        "airport": "Fort Nelson / Gordon Field",
+        "code": "CBL3",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort Nelson / Gordon Field",
+        "code": "CBL3",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Nelson / Gordon Field",
+        "code": "CBL3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.5
+    },
+    {
+        "airport": "Fort St. James (Perison)",
+        "code": "CYJM",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
