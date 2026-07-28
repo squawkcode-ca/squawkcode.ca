@@ -19024,5 +19024,437 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "ltd hrs",
+        "frequency": 128.5
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Fort St. John",
+        "code": "CYXJ",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": "132.600, 285.400"
+    },
+    {
+        "airport": "Fort Ware",
+        "code": "CAJ9",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Whitehorse rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Fort Ware",
+        "code": "CAJ9",
+        "province": "BC",
+        "comm": "bcst",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Fort Ware",
+        "code": "CAJ9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fort Creek",
+        "code": "CED4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fox Lake",
+        "code": "CEC3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Fraser Lake",
+        "code": "CBZ9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Garden River",
+        "code": "CFU4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Glenwood",
+        "code": "CGW2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Gordon Lake",
+        "code": "CFW2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Grand Forks",
+        "code": "CZGF",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Grand Forks",
+        "code": "CZGF",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Grand Forks",
+        "code": "CZGF",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Grand Forks",
+        "code": "CZGF",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Grande",
+        "code": "CFA5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.6
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "",
+        "timings": "ltd hrs",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 118.1
+    },
+    {
+        "airport": "Grande Prairie",
+        "code": "CYQU",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.5
+    },
+    {
+        "airport": "Green Lake",
+        "code": "CBG2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Grimshaw",
+        "code": "CFD5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122
+    },
+    {
+        "airport": "Halkirk / Paintearth (Fetaz)",
+        "code": "CPE8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Hanna",
+        "code": "CEL4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Hardisty",
+        "code": "CEA5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Helmet",
+        "code": "CBH2",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Helmet",
+        "code": "CBH2",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Hespero",
+        "code": "CFB3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "1500-0230Z‡",
+        "frequency": 123.25
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "0230-1500Z‡",
+        "frequency": 135.1
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.25
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": "123.700, 135.100"
+    },
+    {
+        "airport": "High Level",
+        "code": "CYOJ",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "0230-1500Z‡",
+        "frequency": 128.225
+    },
+    {
+        "airport": "High Prairie",
+        "code": "CZHP",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "High River / Foothills Regional Airport",
+        "code": "CEN4",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "Foorhills tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Hillspring (Beck Farm)",
+        "code": "CHS3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Hinton / Entrance",
+        "code": "CEE4",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton (Jasper-Hinton)",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Hinton / Entrance",
+        "code": "CEE4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.35
     }
 ]
