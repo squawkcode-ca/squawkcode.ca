@@ -19771,5 +19771,680 @@
         "transmitter": "",
         "timings": "",
         "frequency": 127.5
+    },
+    {
+        "airport": "Kemess Creek",
+        "code": "CBQ7",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Killam-Sedgewick / Flagstaff Regional",
+        "code": "CEK6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Kirby Lake",
+        "code": "CRL4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "1307Z‡ O/T tfc",
+        "frequency": 123.35
+    },
+    {
+        "airport": "Kirby Lake",
+        "code": "CRL4",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr (South Oil Sands)",
+        "timings": "",
+        "frequency": 134.45
+    },
+    {
+        "airport": "Kirby Lake",
+        "code": "CRL4",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.175
+    },
+    {
+        "airport": "Kitimat",
+        "code": "CBW2",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Lac La Biche",
+        "code": "CYLB",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Lac La Biche",
+        "code": "CYLB",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Lac La Biche",
+        "code": "CYLB",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Lac La Biche",
+        "code": "CYLB",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.125
+    },
+    {
+        "airport": "Lacombe",
+        "code": "CEG3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "La Crete (Lake Fehr Memorial)",
+        "code": "CFN5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Langley Regional",
+        "code": "CYNJ",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "1630-0230Z (DT 1530-0330Z)",
+        "frequency": 124.5
+    },
+    {
+        "airport": "Langley Regional",
+        "code": "CYNJ",
+        "province": "BC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "1630-0230Z (DT 1530-0330Z)",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Langley Regional",
+        "code": "CYNJ",
+        "province": "BC",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "1630-0230Z (DT 1530-0330Z)",
+        "frequency": 119
+    },
+    {
+        "airport": "Langley Regional",
+        "code": "CYNJ",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "0230-1630Z (DT 0330-1530Z)",
+        "frequency": 119
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "1245-0545Z‡",
+        "frequency": 121
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "1245-0545Z‡",
+        "frequency": 124.4
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 121
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": "132.750, 265.200"
+    },
+    {
+        "airport": "Lethbridge",
+        "code": "CYQL",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "0545-1245Z‡",
+        "frequency": 124.4
+    },
+    {
+        "airport": "Lethbridge (Gunnlaugson)",
+        "code": "CGN3",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "1245-0545Z‡",
+        "frequency": 121
+    },
+    {
+        "airport": "Lethbridge (Gunnlaugson)",
+        "code": "CGN3",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 121
+    },
+    {
+        "airport": "Lethbridge (J3 Airfield)",
+        "code": "CLJ3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lethbridge (Mercer Field)",
+        "code": "CMF3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lethbridge (Taylor Field)",
+        "code": "CTF6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Likely",
+        "code": "CAX5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lillooet",
+        "code": "CYLI",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lillooet (Blackcomb)",
+        "code": "CBP5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Lillooet (Blackcomb)",
+        "code": "CBP5",
+        "province": "BC",
+        "comm": "A/G",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 129.625
+    },
+    {
+        "airport": "Lloydminster",
+        "code": "CYLL",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "Lloyd rdo",
+        "timings": "1400-0500Z‡",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Lloydminster",
+        "code": "CYLL",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Lloydminster",
+        "code": "CYLL",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Lloydminster",
+        "code": "CYLL",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "Lloyd rdo",
+        "timings": "1400-0500Z‡ O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Lloydminster",
+        "code": "CYLL",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.45
+    },
+    {
+        "airport": "Lloydminster",
+        "code": "CYLL",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "05-14Z‡",
+        "frequency": 128.55
+    },
+    {
+        "airport": "Long Harbour",
+        "code": "CLH3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Loon River",
+        "code": "CFS6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Mabel Lake",
+        "code": "CBF9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Mackenzie",
+        "code": "CYZY",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Mackenzie",
+        "code": "CYZY",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Mackenzie",
+        "code": "CYZY",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Mackenzie",
+        "code": "CYZY",
+        "province": "BC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 127.7
+    },
+    {
+        "airport": "Manning",
+        "code": "CFX4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Manning",
+        "code": "CFX4",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 122.55
+    },
+    {
+        "airport": "Margaret Lake",
+        "code": "CFV6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Markerville / Safron Farms",
+        "code": "CSF5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Masset",
+        "code": "CZMT",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.7
+    },
+    {
+        "airport": "Mayerthorpe",
+        "code": "CEV5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "McBride",
+        "code": "CAV4",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "McBride",
+        "code": "CAV4",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "McBride",
+        "code": "CAV4",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "McBride",
+        "code": "CAV4",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.175
+    },
+    {
+        "airport": "Medicine Hat",
+        "code": "CYXH",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "1245-0345Z",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Medicine Hat",
+        "code": "CYXH",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Medicine Hat",
+        "code": "CYXH",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Medicine Hat",
+        "code": "CYXH",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "1245-0345Z",
+        "frequency": 124.875
+    },
+    {
+        "airport": "Medicine Hat",
+        "code": "CYXH",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "1245-0345Z O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Medicine Hat",
+        "code": "CYXH",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "0345-1245Z",
+        "frequency": 124.875
+    },
+    {
+        "airport": "Medicine Hat / Schlenker",
+        "code": "CFZ3",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Medicine Hat / Schlenker",
+        "code": "CFZ3",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Medicine Hat / Schlenker",
+        "code": "CFZ3",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "1245-0345Z O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Merritt",
+        "code": "CAD5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Midway",
+        "code": "CBM6",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Milk River",
+        "code": "CEW5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Mobil Bistcho",
+        "code": "CFV3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Moose Lake (Lodge)",
+        "code": "CAS2",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Mule Creek",
+        "code": "CBS4",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Muskeg Tower",
+        "code": "CFW4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Muskeg Tower",
+        "code": "CFW4",
+        "province": "AB",
+        "comm": "A/G",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Nakusp",
+        "code": "CAQ5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Nampa / Hockey",
+        "code": "CNP6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Namur Lake",
+        "code": "CFB5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
     }
 ]
