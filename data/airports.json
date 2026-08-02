@@ -20446,5 +20446,428 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123.2
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "1330-0530Z‡",
+        "frequency": "122.100, 291.800"
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "RCO ",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 126
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": 128.425
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "GND ADV",
+        "transmitter": "",
+        "timings": "1330-0530Z‡",
+        "frequency": 122.6
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "MF/ATF",
+        "transmitter": "rdo",
+        "timings": "1330-0530Z‡ O/T tfc",
+        "frequency": 122.1
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "TML",
+        "transmitter": "Victoria",
+        "timings": "",
+        "frequency": 120.8
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "ARR",
+        "transmitter": "Victoria Tml",
+        "timings": "",
+        "frequency": "121.075, 252.300"
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "DEP",
+        "transmitter": "Victoria Tml",
+        "timings": "",
+        "frequency": "121.075, 252.300"
+    },
+    {
+        "airport": "Nanaimo",
+        "code": "CYCD",
+        "province": "BC",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "05-14Z‡",
+        "frequency": 128.425
+    },
+    {
+        "airport": "Nelson",
+        "code": "CZNL",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Nelson",
+        "code": "CZNL",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Nelson",
+        "code": "CZNL",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Oie Lake / Dougall Campbell Field",
+        "code": "CDC5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Olds-Didsbury",
+        "code": "CEA3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Olds-Didsbury",
+        "code": "CEA3",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 132.85
+    },
+    {
+        "airport": "Olds (Netbook)",
+        "code": "CFK6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Oliver",
+        "code": "CAU3",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Oliver",
+        "code": "CAU3",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Oliver",
+        "code": "CAU3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "One Hundred Mile House",
+        "code": "CAV3",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Osoyoos",
+        "code": "CBB9",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo (Oliver)",
+        "timings": "",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Osoyoos",
+        "code": "CBB9",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Osoyoos",
+        "code": "CBB9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Ospika",
+        "code": "CBA9",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Oyen Muni",
+        "code": "CED3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Oyen Muni",
+        "code": "CED3",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 121.875
+    },
+    {
+        "airport": "Peace River",
+        "code": "CYPE",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Peace River",
+        "code": "CYPE",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Peace River",
+        "code": "CYPE",
+        "province": "AB",
+        "comm": "CLNC DEL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.27
+    },
+    {
+        "airport": "Peace River",
+        "code": "CYPE",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.275
+    },
+    {
+        "airport": "Peace River",
+        "code": "CYPE",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.1
+    },
+    {
+        "airport": "Pelican",
+        "code": "CFT8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Pemberton",
+        "code": "CYPS",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 122.375
+    },
+    {
+        "airport": "Pemberton",
+        "code": "CYPS",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Pemberton",
+        "code": "CYPS",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Pemberton",
+        "code": "CYPS",
+        "province": "BC",
+        "comm": "A/G",
+        "transmitter": "Blackcomb Helicopters",
+        "timings": "",
+        "frequency": 122.775
+    },
+    {
+        "airport": "Penticton",
+        "code": "CYYF",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Penticton",
+        "code": "CYYF",
+        "province": "BC",
+        "comm": "GND ADV",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Penticton",
+        "code": "CYYF",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Pincher Creek",
+        "code": "CZPC",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Pincher Creek",
+        "code": "CZPC",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 127.65
+    },
+    {
+        "airport": "Pitt Meadows",
+        "code": "CYPK",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "15-07Z‡",
+        "frequency": 125
+    },
+    {
+        "airport": "Pitt Meadows",
+        "code": "CYPK",
+        "province": "BC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "15-07Z‡",
+        "frequency": 123.8
+    },
+    {
+        "airport": "Pitt Meadows",
+        "code": "CYPK",
+        "province": "BC",
+        "comm": "TWR",
+        "transmitter": "Pitt",
+        "timings": "15-07Z‡",
+        "frequency": 126.3
+    },
+    {
+        "airport": "Pitt Meadows",
+        "code": "CYPK",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "07-15Z‡",
+        "frequency": 126.3
+    },
+    {
+        "airport": "Ponoka (Labrie Field)",
+        "code": "CEH3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Port Alberni (Alberni Valley Regional)",
+        "code": "CBS8",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
     }
 ]
