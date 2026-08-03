@@ -20869,5 +20869,518 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 123
+    },
+    {
+        "airport": "Port Hardy",
+        "code": "CYZT",
+        "province": "BC",
+        "comm": "RADIO",
+        "transmitter": "Hardy",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Port Hardy",
+        "code": "CYZT",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Port Hardy",
+        "code": "CYZT",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Port Hardy",
+        "code": "CYZT",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "Hardy rdo",
+        "timings": "",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Port Hardy",
+        "code": "CYZT",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": "132.200, 266.300"
+    },
+    {
+        "airport": "Port McNeill",
+        "code": "CAT5",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo (Port Hardy)",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Port McNeill",
+        "code": "CAT5",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Port McNeill",
+        "code": "CAT5",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Powell River",
+        "code": "CYPW",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo (Campbell River)",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Powell River",
+        "code": "CYPW",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Powell River",
+        "code": "CYPW",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123
+    },
+    {
+        "airport": "Powell River",
+        "code": "CYPW",
+        "province": "BC",
+        "comm": "TML",
+        "transmitter": "Comox",
+        "timings": "",
+        "frequency": "123.700, 227.600"
+    },
+    {
+        "airport": "Primrose",
+        "code": "CFN6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "13-07Z‡ O/T tfc",
+        "frequency": 122.95
+    },
+    {
+        "airport": "Primrose",
+        "code": "CFN6",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr (South Oil Sands)",
+        "timings": "",
+        "frequency": 134.45
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "RAAS Williams Lake rdo",
+        "timings": "05-14Z‡",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.55
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": 128.725
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "14-05Z‡",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "Williams Lake rdo",
+        "timings": "05-14Z‡",
+        "frequency": 118.3
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": 133.8
+    },
+    {
+        "airport": "Prince George",
+        "code": "CYXS",
+        "province": "BC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "05-14Z‡",
+        "frequency": 128.725
+    },
+    {
+        "airport": "Prince Rupert",
+        "code": "CYPR",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Prince Rupert",
+        "code": "CYPR",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Prince Rupert",
+        "code": "CYPR",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.5
+    },
+    {
+        "airport": "Prince Rupert",
+        "code": "CYPR",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": 133.675
+    },
+    {
+        "airport": "Prince Rupert",
+        "code": "CYPR",
+        "province": "BC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 128.575
+    },
+    {
+        "airport": "Princeton",
+        "code": "CYDC",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 125.85
+    },
+    {
+        "airport": "Princeton",
+        "code": "CYDC",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Princeton",
+        "code": "CYDC",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Princeton",
+        "code": "CYDC",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": "135.000, 351.300"
+    },
+    {
+        "airport": "Provost",
+        "code": "CEH6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Puntzi Mountain",
+        "code": "CYPU",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Puntzi Mountain",
+        "code": "CYPU",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Puntzi Mountain",
+        "code": "CYPU",
+        "province": "BC",
+        "comm": "PAL",
+        "transmitter": "Vancouver Ctr",
+        "timings": "",
+        "frequency": 135.05
+    },
+    {
+        "airport": "Qualicum Beach",
+        "code": "CAT4",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Qualicum Beach",
+        "code": "CAT4",
+        "province": "BC",
+        "comm": "TML",
+        "transmitter": "Comox",
+        "timings": "",
+        "frequency": "123.700, 227.600"
+    },
+    {
+        "airport": "Quamichan Lake (Raven Field)",
+        "code": "CML2",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Quesnel",
+        "code": "CYQZ",
+        "province": "BC",
+        "comm": "RCO",
+        "transmitter": "RAAS Williams Lake rdo",
+        "timings": "14-06Z‡",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Quesnel",
+        "code": "CYQZ",
+        "province": "BC",
+        "comm": "MF",
+        "transmitter": "Williams Lake rdo",
+        "timings": "14-06Z‡ O/T tfc",
+        "frequency": 122.2
+    },
+    {
+        "airport": "Quesnel",
+        "code": "CYQZ",
+        "province": "BC",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 124.4
+    },
+    {
+        "airport": "Quesnel Lake",
+        "code": "CBK6",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Radium Hot Springs",
+        "code": "CBL6",
+        "province": "BC",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rainbow Lake",
+        "code": "CYOP",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Rainbow Lake",
+        "code": "CYOP",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 123.3
+    },
+    {
+        "airport": "Red Deer Forestry",
+        "code": "CFR7",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.475
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "ATIS",
+        "transmitter": "",
+        "timings": "13-05Z‡",
+        "frequency": 124
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "GND",
+        "transmitter": "",
+        "timings": "13-05Z‡",
+        "frequency": 121.9
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "",
+        "timings": "13-05Z‡",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 132.85
+    },
+    {
+        "airport": "Red Deer Regional",
+        "code": "CYQF",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "05-13Z‡",
+        "frequency": 124
+    },
+    {
+        "airport": "Red Deer / Truant",
+        "code": "CRD5",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Red Deer",
+        "timings": "13-05Z‡",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Red Deer / Truant",
+        "code": "CRD5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 118.5
     }
 ]
