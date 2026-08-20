@@ -21382,5 +21382,140 @@
         "transmitter": "tfc",
         "timings": "",
         "frequency": 118.5
+    },
+    {
+        "airport": "Red Deer / Truant South",
+        "code": "CRD6",
+        "province": "AB",
+        "comm": "TWR",
+        "transmitter": "Red Deer",
+        "timings": "13-05Z‡",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Red Deer / Truant South",
+        "code": "CRD6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 118.5
+    },
+    {
+        "airport": "Red Earth Creek",
+        "code": "CEH5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Red Earth Creek",
+        "code": "CEH5",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 135.275
+    },
+    {
+        "airport": "Rimbey",
+        "code": "CFC7",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rockyford",
+        "code": "CFC6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Rockyford / Early Bird Air",
+        "code": "CEB4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.4
+    },
+    {
+        "airport": "Rocky Mountain House",
+        "code": "CYRM",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Rocky Mountain House",
+        "code": "CYRM",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 134.3
+    },
+    {
+        "airport": "Rocky Mountain House",
+        "code": "CYRM",
+        "province": "AB",
+        "comm": "AUTO",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 131.975
+    },
+    {
+        "airport": "St. Paul",
+        "code": "CEW3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Slave Lake",
+        "code": "CYZH",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.375
+    },
+    {
+        "airport": "Slave Lake",
+        "code": "CYZH",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Slave Lake",
+        "code": "CYZH",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 124.85
+    },
+    {
+        "airport": "Slave Lake",
+        "code": "CYZH",
+        "province": "AB",
+        "comm": "AWOS",
+        "transmitter": "",
+        "timings": "",
+        "frequency": 127
     }
 ]
