@@ -94,7 +94,7 @@
         "code": "CYYG",
         "province": "PE",
         "comm": "PAL",
-        "transmitter": "Moncton ctr",
+        "transmitter": "Moncton tr",
         "timings": "",
         "frequency": 135.65
     },
@@ -247,7 +247,7 @@
         "code": "CYZR",
         "province": "ON",
         "comm": "PAL",
-        "transmitter": "Toronto ctr",
+        "transmitter": "Toronto Ctr",
         "timings": "",
         "frequency": 134.375
     },
@@ -669,7 +669,7 @@
         "airport": "Windsor",
         "code": "CYQG",
         "province": "ON",
-        "comm": "VRF",
+        "comm": "VFR ADV",
         "transmitter": "Adv Windsor Area-Detroit Apch Ctl",
         "timings": "",
         "frequency": 134.3
@@ -2451,7 +2451,7 @@
         "airport": "Geraldton (Greenstone Regional)",
         "code": "CYGQ",
         "province": "ON",
-        "comm": "AFT",
+        "comm": "ATF",
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.8
@@ -2478,7 +2478,7 @@
         "airport": "GoreBay-Manitoulin",
         "code": "CYZE",
         "province": "ON",
-        "comm": "AFT",
+        "comm": "ATF",
         "transmitter": "UNICOM",
         "timings": "ltd hrs O/T tfc",
         "frequency": 122.8
@@ -3243,7 +3243,7 @@
         "airport": "Cherterfield Inlet",
         "code": "CYCS",
         "province": "NU",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "1245-2315Z‡ Mon -Fri, 1445-2115Z‡ Sat & Sun",
         "frequency": 122.1
@@ -3261,7 +3261,7 @@
         "airport": "Clyde River",
         "code": "CYCY",
         "province": "NU",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "1424-2315Z‡ Mon & Wed, 15-24Z‡ Tue, Wed, & Fri, 14-23Z‡ Sat, 11-20Z‡ Sun",
         "frequency": 122.1
@@ -3333,7 +3333,7 @@
         "airport": "Coral Harbour",
         "code": "CYZS",
         "province": "NU",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "",
         "frequency": 122.1
@@ -3369,7 +3369,7 @@
         "airport": "Dawson City",
         "code": "CYDA",
         "province": "YT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "14-24Z Dec 1-Jan 31, 14-23Z Feb 1-May 31, 12-02Z Jun 1-Sep 30, 14-23Z Oct 1-Nov 30",
         "frequency": 122.1
@@ -3423,7 +3423,7 @@
         "airport": "Deline",
         "code": "CYWJ",
         "province": "NT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "14-00Z‡ Mon-Sat, 18-23Z‡ Sun",
         "frequency": 122.1
@@ -3540,7 +3540,7 @@
         "airport": "Faro",
         "code": "CZFA",
         "province": "YT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "13-01Z Jun 1-Sep 30, 14-22Z Oct 1-May 31",
         "frequency": 122.1
@@ -3603,7 +3603,7 @@
         "airport": "Fort Good Hope",
         "code": "CYGH",
         "province": "NT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "14-24Z‡ Mon-Sat, 14-19Z‡ Sun",
         "frequency": 122.1
@@ -3621,7 +3621,7 @@
         "airport": "Fort Liard",
         "code": "CYJF",
         "province": "NT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "15-23Z‡ Mon-Fri",
         "frequency": 122.1
@@ -3639,7 +3639,7 @@
         "airport": "Fort McPherson",
         "code": "CZFM",
         "province": "NT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "14-24Z‡ Mon-Sat, 15-20Z‡ Sun",
         "frequency": 122.1
@@ -3666,7 +3666,7 @@
         "airport": "Fort Resolution",
         "code": "CYFR",
         "province": "NT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "15-23Z‡ Mon-Fri",
         "frequency": 122.1
@@ -3702,7 +3702,7 @@
         "airport": "Fort Simpson",
         "code": "CYFS",
         "province": "NT",
-        "comm": "CNCL DEL",
+        "comm": "CLNC DEL",
         "transmitter": "Edmonton Ctr",
         "timings": "",
         "frequency": 135.4
@@ -3837,7 +3837,7 @@
         "airport": "Gameti / RAE LAKES",
         "code": "CYRA",
         "province": "NT",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "15-01Z‡ Sun-Fri, 16-21Z‡ Sat",
         "frequency": 122.1
@@ -3864,7 +3864,7 @@
         "airport": "Gjoa Haven",
         "code": "CYHK",
         "province": "NU",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "13-01Z‡ Mon, Tue, Thr, Fri, & Sun, 13-23Z‡ Wed",
         "frequency": 122.1
@@ -3963,7 +3963,7 @@
         "airport": "Grise Fiord",
         "code": "CYGZ",
         "province": "NU",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "13-21Z‡ Mon, Tue, Thr, & Fri, 17-01Z‡ Wed",
         "frequency": 122.1
@@ -4251,7 +4251,7 @@
         "airport": "Igloolik",
         "code": "CYGT",
         "province": "NU",
-        "comm": "ARPT RDO",
+        "comm": "APRT RDO",
         "transmitter": "",
         "timings": "17-2130Z‡ Sun, 11-22Z‡ Mon & Tue, 10-21Z‡ Wed, 10-22Z‡ Thu, 11-22Z‡ Fri, 16-2030Z‡ Sat",
         "frequency": 122.1
@@ -9985,7 +9985,7 @@
         "code": "CYJT",
         "province": "NL",
         "comm": "MF",
-        "transmitter": "aprt  rdo",
+        "transmitter": "aprt rdo",
         "timings": "",
         "frequency": 122.1
     },
@@ -14476,7 +14476,7 @@
         "code": "CYPO",
         "province": "ON",
         "comm": "PAL",
-        "transmitter": "Winnigep Ctr",
+        "transmitter": "Winnipeg Ctr",
         "timings": "",
         "frequency": 133.95
     },
@@ -18507,8 +18507,8 @@
         "airport": "Fairmont Hot Springs",
         "code": "CYCZ",
         "province": "BC",
-        "comm": "FISE Pacific rdo (invermere)",
-        "transmitter": "",
+        "comm": "RCO",
+        "transmitter": "FISE Pacific rdo (invermere)",
         "timings": "",
         "frequency": 123.475
     },
@@ -18516,8 +18516,8 @@
         "airport": "Fairmont Hot Springs",
         "code": "CYCZ",
         "province": "BC",
-        "comm": "bcst",
-        "transmitter": "",
+        "comm": "RCO",
+        "transmitter": "bcst",
         "timings": "",
         "frequency": 126.7
     },
@@ -20460,7 +20460,7 @@
         "airport": "Nanaimo",
         "code": "CYCD",
         "province": "BC",
-        "comm": "RCO ",
+        "comm": "RCO",
         "transmitter": "FISE Pacific rdo",
         "timings": "",
         "frequency": 126
@@ -21638,6 +21638,258 @@
     {
         "airport": "Trout Lake",
         "code": "CFB4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Two Hills",
+        "code": "CEL6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Valleyview",
+        "code": "CEL5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Vauxhall",
+        "code": "CEN6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Vegreville",
+        "code": "CEV3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Vermilion",
+        "code": "CYVG",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Vermilion",
+        "code": "CYVG",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": 133.45
+    },
+    {
+        "airport": "Viking",
+        "code": "CEE8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Vulcan",
+        "code": "CFX6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Vulcan / Agro 1",
+        "code": "CAG4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Vulcan / Kirkcaldy",
+        "code": "CVL2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Vulcan / Wild Rose",
+        "code": "CWR2",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Wabasca",
+        "code": "CEE5",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wainwright",
+        "code": "CYWV",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "",
+        "timings": "O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Wainwright / Wainwright (Field 21)",
+        "code": "CYWN",
+        "province": "AB",
+        "comm": "MIL",
+        "transmitter": "Range ctl",
+        "timings": "",
+        "frequency": "122.800, 229.800"
+    },
+    {
+        "airport": "Warburg / Zajes",
+        "code": "CFH8",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Warner",
+        "code": "CEP6",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Westlock",
+        "code": "CES4",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.8
+    },
+    {
+        "airport": "Westlock (Hnatko Farms)",
+        "code": "CHF3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "tfc",
+        "timings": "",
+        "frequency": 123.2
+    },
+    {
+        "airport": "Wetaskiwin Regional",
+        "code": "CEX3",
+        "province": "AB",
+        "comm": "ATF",
+        "transmitter": "UNICOM",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 123.5
+    },
+    {
+        "airport": "Wetaskiwin Regional",
+        "code": "CEX3",
+        "province": "AB",
+        "comm": "ARR",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Wetaskiwin Regional",
+        "code": "CEX3",
+        "province": "AB",
+        "comm": "DEP",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 119.5
+    },
+    {
+        "airport": "Wetaskiwin Regional",
+        "code": "CEX3",
+        "province": "AB",
+        "comm": "VFR ADV",
+        "transmitter": "Edmonton Tml",
+        "timings": "",
+        "frequency": 127.4
+    },
+    {
+        "airport": "Whitecourt",
+        "code": "CYZU",
+        "province": "AB",
+        "comm": "RADIO",
+        "transmitter": "",
+        "timings": "13-05Z‡",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Whitecourt",
+        "code": "CYZU",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "FISE Edmonton rdo",
+        "timings": "",
+        "frequency": 123.275
+    },
+    {
+        "airport": "Whitecourt",
+        "code": "CYZU",
+        "province": "AB",
+        "comm": "RCO",
+        "transmitter": "bcst",
+        "timings": "",
+        "frequency": 126.7
+    },
+    {
+        "airport": "Whitecourt",
+        "code": "CYZU",
+        "province": "AB",
+        "comm": "MF",
+        "transmitter": "rdo",
+        "timings": "ltd hrs O/T tfc",
+        "frequency": 122.3
+    },
+    {
+        "airport": "Whitecourt",
+        "code": "CYZU",
+        "province": "AB",
+        "comm": "PAL",
+        "transmitter": "Edmonton Ctr",
+        "timings": "",
+        "frequency": "132.050, 135.600, 293.700"
+    },
+    {
+        "airport": "Wildwood / Loche Mist Farms",
+        "code": "CJJ3",
         "province": "AB",
         "comm": "ATF",
         "transmitter": "tfc",
